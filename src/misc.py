@@ -19,10 +19,9 @@ paths = EasyDict({"home": pathlib.Path(__file__).parent.parent})
 paths.data        = paths.home  / "data"
 paths.model       = paths.home  / "models"
 paths.t2v         = paths.model / "top2vec"
-paths.sec         = paths.data  / "sec"
 paths.meta        = paths.data  / "meta"
+paths.item1a      = paths.data  / "item1a"
 paths.stats       = paths.data  / "statistics"
-paths.extracts    = paths.data  / "extracts"
 paths.transcripts = paths.data  / "transcripts"
 
 
