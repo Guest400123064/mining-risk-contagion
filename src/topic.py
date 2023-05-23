@@ -18,6 +18,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from src.text import tokenize_text
+from src.misc import paths
+from src.topic import fasttext_model
 
 
 def generate_wordcloud(freq: Dict[str, int], topic_name: str = "Word Cloud"):
@@ -76,7 +78,7 @@ class Top2VecViewer:
         def predict_fn(texts: Union[str, List[str]],
                        thresh: float = 0.3,
                        return_all_scores: bool = False) -> Union[List[List[int]], np.ndarray]:
-            """"""
+            """Use the trained Top2Vec model to tag the input sequence of texts with the topics"""
 
             if isinstance(texts, str):
                 texts = [texts]
@@ -182,8 +184,87 @@ class Top2VecViewer:
                 return sim_score
 
             for sim in sim_score:
-                tags = np.where(sim > thresh)[0].tolist() \
-                        if sim.max() > thresh else [self.null_topic_id]
+                tags = np.where(sim > thresh)[0].tolist() if sim.max() > thresh else [self.null_topic_id]
+                texts_tag.append(tags)
+            return texts_tag
+        
+        return predict_fn
+    
+    def make_fasttext_keyword_predictor(self, 
+                                        is_reduced: bool = True,
+                                        topic_bags: List[List[str]] = None,
+                                        thresh_matching: float = 0.9) -> Callable[[Union[str, List[str]], float], List[List[int]]]:
+        """Use FastText sub-word embedding to create representations for 
+            topic bag-of-words. Given a sentence, tokenize the sentence 
+            into words and compute pairwise cosine similarity between each
+            sentence token and topic bag-of-words. Then, the max similarity 
+            score is returned as the matched topic keyword. If the max 
+            similarity is smaller than a threshold (strict), then the sentence 
+            token is considered as not matching any topic keywords. This is 
+            similar to the ColBERT-style keyword matching."""
+        
+        from gensim.models import KeyedVectors
+
+        global fasttext_model
+
+        if fasttext_model is None:
+            fasttext_path = paths.model / "fasttext" / "wiki-news-300d-1M.vec"
+            fasttext_model = KeyedVectors.load_word2vec_format(str(fasttext_path), binary=False)
+
+        if topic_bags is None:
+            topic_bags, _, _ = self.model.get_topics(reduced=is_reduced)
+
+        topic_embs = []
+        topic_bags = topic_bags.copy()
+        for i, bag in enumerate(topic_bags):
+            bag_embs = []
+            topic_bags[i] = list(set(tokenize_text(" ".join(bag))))
+            for token in topic_bags[i]:
+                if token in fasttext_model:
+                    bag_embs.append(fasttext_model[token].reshape(1, -1))
+
+            if len(bag_embs) == 0:
+                topic_embs.append(np.zeros((1, fasttext_model.vector_size)))
+                continue
+
+            bag_embs = np.concatenate(bag_embs, axis=0)
+            bag_embs = bag_embs / np.linalg.norm(bag_embs, axis=1, keepdims=True)
+            topic_embs.append(bag_embs)
+
+        def predict_fn(texts: Union[str, List[str]],
+                       thresh: float = 2.0, 
+                       return_all_scores: bool = False) -> Union[List[List[int]], np.ndarray]:
+
+            if isinstance(texts, str):
+                texts = [texts]
+
+            texts_tag = []
+            sim_score = []
+            for text in texts:
+                sim_score.append([0] * len(topic_bags))
+        
+                sentence_embs = []
+                for token in tokenize_text(text):
+                    if token in fasttext_model:
+                        sentence_embs.append(fasttext_model[token].reshape(1, -1))
+                
+                if len(sentence_embs) == 0:
+                    continue
+
+                sentence_embs = np.concatenate(sentence_embs, axis=0)
+                sentence_embs = sentence_embs / np.linalg.norm(sentence_embs, axis=1, keepdims=True)
+
+                for i, bag_embs in enumerate(topic_embs):
+                    sim_matrix = np.matmul(bag_embs, sentence_embs.T).max(axis=0)
+                    sim_matrix = np.where(sim_matrix > thresh_matching, sim_matrix, 0)
+                    sim_score[-1][i] = sim_matrix.sum()
+            
+            sim_score = np.array(sim_score)
+            if return_all_scores:
+                return sim_score
+            
+            for sim in sim_score:
+                tags = np.where(sim > thresh)[0].tolist() if sim.max() > thresh else [self.null_topic_id]
                 texts_tag.append(tags)
             return texts_tag
         
