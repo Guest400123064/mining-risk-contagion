@@ -19,7 +19,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 from src.text import tokenize_text
 from src.misc import paths
-from src.topic import fasttext_model
+
+
+fasttext_model = None
 
 
 def generate_wordcloud(freq: Dict[str, int], topic_name: str = "Word Cloud"):
