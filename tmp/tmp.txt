@@ -1,74 +1,71 @@
 ('You should carefully consider the following risk factors, in addition to '
  'those discussed elsewhere in this report, in evaluating our Company, its '
  'business, its industry and prospects.')
-- customer_orientation
+- governance
 
-('Because we may never earn significant revenues from our mine operations, our '
- 'business may fail.')
-- taxes
+('In that case, the market price of our securities could decline, and you '
+ 'could lose part or all of your investment.')
+- governance
 
 ('If our business plan is not successful and we are not able to operate '
  'profitably, then our securities may become worthless and investors may lose '
  'all of their investment in our Company.')
-- customer_orientation, shareholder_affiliation
-
-('We recognize that if we are unable to generate significant revenues from the '
- 'exploration and exploitation of our mineralized materials in the future, we '
- 'will not be able to earn profits or continue operations.')
-- taxes
-
-('There is no history upon which to base any assumption as to the likelihood '
- 'that we will prove successful, and we can provide no assurance that we will '
- 'generate significant revenues or ever achieve profitability.')
-- supply_chain_problems
+- governance
 
 ('If we are unsuccessful in addressing these risks, our business will fail and '
  'investors may lose all of their investment in our Company.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('Transportation difficulties and weather interruptions may affect and delay '
  'proposed mining operations and impact our business plans.')
-- natural_disaster
+- governance
 
-('If we are unable to secure exploration supplies we may have to delay our '
- 'anticipated business operations.')
-- customer_orientation
+('Our mineral projects involve high risks because we have not invested '
+ 'sufficiently in the characterization of mineralized material, geologic '
+ 'analysis, metallurgical testing, mine planning and economic analysis to the '
+ 'same extent that other mining companies might deem reasonable.')
+- governance
 
-('Competition and unforeseen limited sources of supplies needed for our '
- 'proposed exploration work could result in occasional shortages of supplies '
- 'of certain products, equipment or materials.')
-- customer_orientation, supply_chain_problems
+('Standard industry practice calls for a mining company to prepare a formal '
+ 'mine plan and mining production schedule and have these documents reviewed '
+ 'and validated by a third party specialist.')
+- governance
 
 ('We may not be able to generate a profit on the sale of gold or other '
  'minerals because we have limited control over our costs and have no ability '
  'to control the market prices.')
-- customer_orientation
+- governance
 
-('The total cash costs of production at any location are frequently subject to '
- 'great variation from year to year as a result of a number of factors, such '
- 'as the changing composition of ore grade or mineralized material production, '
- 'and metallurgy and exploration activities in response to the physical shape '
- 'and location of the ore body or deposit.')
-- customer_orientation
+('Substantial expenditures are required to acquire existing gold properties '
+ 'with established reserves or to establish proven or probable reserves '
+ 'through drilling and analysis.')
+- governance
 
-('A material increase in production costs or a decrease in the price of gold '
- 'or other minerals could adversely affect our ability to earn a profit on the '
- 'sale of gold or other minerals.')
-- customer_orientation, taxes
+('In addition, there can be no assurance that we will achieve the same '
+ 'recoveries of metals contained in the mineralized material as in small-scale '
+ 'laboratory tests or that we will be able to duplicate such results in larger '
+ 'scale tests under on-site conditions or during production.')
+- governance
+
+('The cost of our exploration and acquisition activities is substantial, and '
+ 'there is no assurance that the quantities of minerals we discover or acquire '
+ 'will justify commercial operations or replace reserves established in the '
+ 'future.')
+- governance
 
 ('Substantial expenditures are required to acquire existing gold properties, '
  'to establish ore reserves through drilling and analysis, to develop '
  'metallurgical processes to extract metal from the ore, and in the case of '
  'new properties, to develop the processing facilities and infrastructure at '
  'any site chosen for mineral exploration.')
-- customer_orientation, hiring_employees, litigation, supply_chain_problems
+- governance
 
 ('There can be no assurance that any gold reserves or mineralized material '
  'that may be discovered or acquired in the future, if any, will be in '
  'sufficient quantities or of adequate grade to justify commercial operations '
  'or that the funds required for mineral production operation can be obtained '
  'on a timely or reasonable basis, if at all.')
-- customer_orientation
+- governance
 
 ('Gold and silver prices can fluctuate widely and may be affected by numerous '
  'factors, such as expectations for inflation, levels of interest rates, '
@@ -76,63 +73,81 @@
  'hedging activities, demand for precious metals, global or regional political '
  'and economic crises and production costs in major gold-producing regions, '
  'such as but not limited to South Africa and the former Soviet Union.')
-- customer_orientation, supply_chain_problems
+- environmental, social, governance
 
 ('Since our business consists of exploring for, producing from, or acquiring '
  'gold and silver prospects, the drop in the price of gold or silver will '
  'negatively affect our asset values, cash flows, potential revenues and '
  'profits.')
-- customer_orientation
+- governance
 
-('Our potential future revenues are expected to be derived from the production '
- 'and sale of gold and silver from these properties or from the sale of some '
- 'of these properties.')
-- customer_orientation, taxes
+('The price that we pay to acquire these properties will be influenced, in '
+ 'large part, by the price of gold and silver at the time of the acquisition.')
+- governance
 
-('There can be no assurance that we will be able to acquire such properties '
- 'when competing against competitors with substantially greater financial '
- 'resources than we have.')
-- customer_orientation
+('Although we refine our estimates as appropriate at each step in the process, '
+ 'the final amounts are not determined until a third-party smelter converts '
+ 'the dore and determines final ounces of gold and silver available for sale.')
+- governance
 
-('Our mining production depends on the availability of sufficient water '
- 'supplies.')
-- supply_chain_problems
+('Any material change in the quantity of mineral resources, other mineralized '
+ 'materials, mineralization, grade or stripping ratio may affect the economic '
+ 'viability of our properties.')
+- environmental
 
-('Continuous production at our mines is dependent on our ability to maintain '
- 'our water rights and claims, and the continuing physical availability of the '
- 'water supplies.')
-- carbon_emissions, supply_chain_problems
+('In addition, we can provide no assurance that gold recoveries or other metal '
+ 'recoveries experienced in small-scale laboratory tests will be duplicated in '
+ 'larger scale tests under on-site conditions or during production.')
+- governance
 
 ('The capital expenditures and time required to develop and explore our '
  'properties, including the Lucerne Mine and the Dayton Resource area, are '
  'considerable and changes in costs, construction schedules or both, can '
  'adversely affect project economics and expected production and '
  'profitability.')
-- customer_orientation, supply_chain_problems
+- environmental, governance
 
 ('Operations in which we have direct or indirect interests will be subject to '
  'all the hazards and risks normally incidental to exploration and production '
  'of gold and other metals, any of which could result in work stoppages, '
  'damage to property and possible environmental damage.')
-- natural_disaster, litigation, labor_issues
+- social
+
+('Our ability to execute our strategic plans depends upon our success in '
+ 'obtaining a variety of required governmental approvals that may be opposed '
+ 'by third-parties.')
+- governance
+
+('We do not possess all of the governmental approvals necessary to conduct the '
+ 'full extent of the operations contemplated by our strategic plan.')
+- governance
+
+('Mining companies are increasingly required to consider and provide benefits '
+ 'to the communities in which they operate')
+- social
 
 ('As a result of public concern about the real or perceived detrimental '
  'effects of economic globalization and global climate impacts, businesses '
  'generally, and corporations in natural resource industries, face increasing '
  'public scrutiny of their activities.')
-- customer_orientation, shareholder_affiliation, carbon_emissions
+- environmental, governance
 
 ('These businesses are under pressure to demonstrate that, as they seek to '
  'generate satisfactory returns on investment to shareholders, other '
  'stakeholders, including employees, governments, and communities surrounding '
  'operations benefit and will continue to benefit from their commercial '
  'activities.')
-- customer_orientation, shareholder_affiliation
+- social, governance
+
+('Such pressures tend to be particularly focused on companies whose activities '
+ 'are perceived to have a high impact on their social and physical '
+ 'environment.')
+- social, governance
 
 ('The potential consequences of these pressures include reputational damage, '
  'legal suits, increasing social investment obligations and pressure to '
  'increase taxes and royalties payable to governments and communities.')
-- shareholder_affiliation
+- social, governance
 
 ('Environmental legislation is evolving in the United States generally, and '
  'Nevada specifically, in a manner that may require stricter standards and '
@@ -140,173 +155,203 @@
  'stringent environmental assessments of proposed projects, and a heightened '
  'degree of responsibility for companies and their officers, directors, and '
  'employees.')
-- litigation, carbon_emissions
+- environmental, social, governance
+
+('There is no assurance that any future changes in environmental regulation '
+ 'will not negatively affect our projects.')
+- environmental
 
 ('Nevada state law requires our Nevada projects to hold Nevada water pollution '
  'control permits, which dictate operating controls and closure and '
  'post-closure requirements directed at protecting surface and ground water.')
-- carbon_emissions, supply_chain_problems
+- environmental, governance
+
+('These permits mandate concurrent and post-mining reclamation of mines and '
+ 'require the posting of reclamation bonds sufficient to guarantee the cost of '
+ 'mine reclamation.')
+- governance
+
+('Other Nevada regulations govern operating and design standards for the '
+ 'construction and operation of any source of air contamination and landfill '
+ 'operations.')
+- environmental
+
+('Any changes to these laws and regulations could have a negative impact on '
+ 'our financial performance and results of operations by, for example, '
+ 'requiring changes to operating constraints, technical criteria, fees or '
+ 'surety requirements.')
+- environmental
+
+('Regulations and pending legislation governing issues involving climate '
+ 'change could result in increased operating costs which could have a material '
+ 'adverse effect on our business.')
+- environmental
+
+('Our business is an energy-intensive undertaking, resulting in a significant '
+ 'carbon footprint.')
+- environmental
 
 ('A number of governments or governmental bodies have introduced or are '
  'contemplating regulatory changes in response to the potential impacts of '
  'climate change that are viewed as the result of emissions from the '
  'combustion of carbon-based fuels.')
-- carbon_emissions
+- environmental, social, governance
 
 ('In December 2009, the EPA issued an endangerment finding under the U.S. '
  'Clean Air Act that current and projected concentrations of certain mixed '
  'greenhouse gases, including carbon dioxide, in the atmosphere threaten the '
  'public health and welfare.')
-- carbon_emissions
+- environmental
 
 ('Legislation and increased regulation and requirements regarding climate '
  'change could impose increased costs on us and our suppliers, including '
  'increased energy, capital equipment, environmental monitoring and reporting '
  'and other costs to comply with such regulations.')
-- carbon_emissions
-
-('Extreme weather events (such as increased frequency or intensity of '
- 'hurricanes or prolonged drought) have the potential to disrupt operations at '
- 'our projects.')
-- natural_disaster
+- environmental, governance
 
 ('Where appropriate, our projects have developed emergency plans for managing '
  'extreme weather conditions; however, extended disruptions to supply lines '
  'due to extreme weather could result in interruption of activities at the '
  'project sites, delay or increase the cost of construction of the projects, '
  'or otherwise adversely affect our business.')
-- customer_orientation, natural_disaster, carbon_emissions
+- governance
+
+('Because our land holdings are within the Carson River Mercury Superfund '
+ 'Site, our operations are subject to certain soil sampling and potential '
+ 'remediation requirements, which may result in added costs and delays; and we '
+ 'are also potentially subject to further costs as the result of on-going '
+ 'government investigation and future remediation decisions.')
+- environmental, governance
+
+('Substantially all of our land holdings are within the Carson River Mercury '
+ 'Superfund Site (CRMS) Study Area and portions are within the risk area '
+ 'boundaries identified by NDEP and the United States Environmental Protection '
+ 'Area (USEPA).')
+- environmental, governance
+
+('To comply with the agencies requirements in these areas, the Company '
+ 'conducts soil sampling pursuant to a plan that has been approved by the '
+ 'NDEP.')
+- governance
+
+('Through this sampling program and, if necessary, removal of contaminated '
+ 'materials, the Company intends to enable the NDEP and USEPA to better define '
+ 'the Carson River Superfund Site and the currently designated risk areas so '
+ 'as to eventually exclude our land holdings from such areas and from the Site '
+ 'itself to the maximum extent feasible.')
+- environmental, governance
+
+('The NDEP and USEPA are continuing to study the ecological and human health '
+ 'risks that may be presented by contaminated sediments in certain portions of '
+ 'the Carson River watershed and downstream areas.')
+- environmental, social
+
+('Thus, there is no assurance that the Company will not be asked to undertake '
+ 'additional investigatory or remediation activities or to pay for such '
+ 'activities by the agencies or that future changes in CRMS-related '
+ 'requirements will not negatively affect our operations.')
+- governance
 
 ('Our insurance and surety bonds against environmental risks are limited as to '
  'the maximum protection against potential liability for pollution or other '
  'hazards as a result of the disposal of waste products occurring from '
  'exploration and production.')
-- customer_orientation
+- environmental
+
+('We are subject to federal and state laws that require environmental '
+ 'assessments and the posting of bonds, which add significant costs to our '
+ 'operations and delays in our projects.')
+- social, governance
+
+('Mining companies must post a bond or other surety to guarantee the cost of '
+ 'post-mining reclamation.')
+- governance
+
+('The Bureau of Land Management (BLM) requires that mining operations on lands '
+ 'subject to its regulation obtain an approved plan of operations subject to '
+ 'environmental impact evaluation under the National Environmental Policy Act.')
+- environmental, governance
 
 ('Any submission or significant modification to a plan of operations may also '
  'require the completion of an environmental assessment or Environmental '
  'Impact Statement prior to approval.')
-- carbon_emissions
+- environmental, governance
 
 ('Due to the nature of our business, we may be subject to a variety of '
  'regulatory investigations, claims, lawsuits and other proceedings in the '
  'ordinary course of our business.')
-- customer_orientation, shareholder_affiliation, litigation
+- governance
 
 ('The results of these legal proceedings cannot be predicted with certainty '
  'due to the uncertainty inherent in litigation, including the effects of '
  'discovery of new evidence or advancement of new legal theories, the '
  'difficulty of predicting decisions of judges and juries and the possibility '
  'that decisions may be reversed on appeal.')
-- litigation
+- governance
 
-('Title claims against our properties could require us to compensate parties '
- 'making such claims, if successful, and divert managements time from '
- 'operations.')
-- litigation
+('The validity of unpatented mineral claims, which constitute most of our '
+ 'holdings in the United States, is often uncertain and may be contested by '
+ 'the federal government and other parties.')
+- social, governance
 
 ('The validity of an unpatented mineral claim, in terms of both its location '
  'and its maintenance, depends on strict compliance with a complex body of '
  'federal and state, statutory and decisional law.')
-- litigation
+- governance
 
-('Although we have attempted to acquire satisfactory title to our properties, '
- 'we have not obtained title opinions or title insurance with respect to the '
- 'acquisition of the unpatented mineral claims.')
-- litigation
-
-('The investigation and resolution of title issues would divert managements '
- 'time from ongoing exploration programs.')
-- litigation
-
-('Cybersecurity incidents are increasing in frequency, evolving in nature and '
- 'include, but are not limited to, installation of malicious software, '
- 'unauthorized access to data and other electronic security breaches that '
- 'could lead to disruptions in systems, unauthorized release of confidential '
- 'or otherwise protected information and the corruption of data.')
-- natural_disaster
-
-('However, given the unpredictability of the timing, nature and scope of '
- 'information technology disruptions, we could be subject to manipulation or '
- 'improper use of our systems and networks or financial losses from remedial '
- 'actions, any of which could have a material adverse effect on our financial '
- 'condition and results of operations.')
-- natural_disaster
-
-('Our stock is a penny stock and trading of our stock may be restricted by the '
- 'SECs penny stock regulations, which may limit a stockholders ability to buy '
- 'and sell our stock.')
-- customer_orientation
-
-('Our securities are covered by the penny stock rules, which impose additional '
- 'sales practice requirements on broker-dealers that sell to persons other '
- 'than established customers and accredited investors.')
-- customer_orientation
-
-('The penny stock rules (including Rule 15g-9) require a broker-dealer, prior '
- 'to a transaction in a penny stock not otherwise exempt from the rules, to '
- 'deliver a standardized risk disclosure document in a form prepared by the '
- 'SEC, which provides information about penny stocks and the nature and level '
- 'of risks in the penny stock market.')
-- litigation, supply_chain_problems
+('Rule 3a51-1 generally defines penny stock to be any equity security that has '
+ 'a market price (as defined) less than $5.00 per share or an exercise price '
+ 'of less than $5.00 per share, subject to certain exceptions.')
+- governance
 
 ('The broker-dealer also must provide the customer with current bid and offer '
  'quotations for the penny stock, the compensation of the broker-dealer and '
  'its salesperson in the transaction, and monthly account statements showing '
  'the market value of each penny stock held in the customers account.')
-- customer_orientation, supply_chain_problems
+- governance
 
-('The bid and offer quotations, and the broker-dealer and salesperson '
- 'compensation information, must be given to the customer orally or in writing '
- 'prior to effecting the transaction and must be given to the customer in '
- 'writing before or with the customers confirmation.')
-- customer_orientation, supply_chain_problems
-
-('In addition, the penny stock rules require that, prior to a transaction in a '
- 'penny stock not otherwise exempt from these rules, the broker-dealer must '
- 'make a special written determination that the penny stock is a suitable '
- 'investment for the purchaser and receive the purchasers written agreement to '
- 'the transaction.')
-- customer_orientation, shareholder_affiliation, litigation
+('Consequently, these penny stock rules may affect the ability of '
+ 'broker-dealers to trade our securities.')
+- social
 
 ('The Financial Industry Regulatory Authority (FINRA) sales practice '
  'requirements may also limit a stockbrokers ability to buy or sell our stock.')
-- customer_orientation
+- governance
 
 ('In addition to the penny stock rules promulgated by the SEC, FINRA has '
  'adopted rules that require that in recommending an investment to a customer, '
  'a broker-dealer must have reasonable grounds for believing that the '
  'investment is suitable for that customer.')
-- customer_orientation, litigation
+- governance
 
 ('Prior to recommending speculative low priced securities to their '
  'non-institutional customers, broker-dealers must make reasonable efforts to '
  'obtain information about the customers financial status, tax status, '
  'investment objectives, and other information.')
-- customer_orientation
+- governance
 
 ('The FINRA requirements make it more difficult for broker-dealers to '
  'recommend that their customers buy our common stock, which may limit your '
  'ability to buy or sell our stock and have an adverse effect on the market '
  'for our shares.')
-- customer_orientation
+- governance
 
 ('The market price of the Companys common stock may fluctuate significantly '
  'from time to time as a result of many factors, including: If securities or '
  'industry analysts do not publish research or publish inaccurate or '
  'unfavorable research about our business, our stock price and trading volume '
  'could decline.')
-- customer_orientation
+- social, governance
 
 ('The trading market for our common stock will depend in part on the research '
  'and reports that securities or industry analysts publish about us or our '
  'business.')
-- customer_orientation
+- social, governance
 
-('If one or more of these analysts cease coverage of us or fail to publish '
- 'reports on us regularly, demand for our common stock could decrease, which '
- 'could cause our stock price and trading volume to decline.')
-- customer_orientation
+('We currently expect to retain all available funds and future earnings, if '
+ 'any, for use in the operation and growth of our business and do not '
+ 'anticipate paying any cash dividends in the foreseeable future.')
+- governance
 
 ('Any future determination to pay cash dividends will be at the discretion of '
  'our Board, subject to compliance with applicable law, our organizational '
@@ -317,13 +362,13 @@
  'ability to pay dividends, and will depend upon, among other factors, our '
  'results of operations, financial condition, earnings, capital requirements '
  'and other factors that our Board deems relevant.')
-- shareholder_affiliation
+- governance
 
 ('The certificates of designations of our preferred stock substantially limit '
  'the ability of the Company to incur debt, issue securities, enter into '
  'merger or acquisition transactions, redeem capital stock, or pay dividends '
  'to common shareholders, among other things.')
-- shareholder_affiliation
+- social, governance
 
 ('Mr. John V. Winfield, the Chairman of our Board of Directors, and entities '
  'that he controls (the Winfield Group), through its ownership of common '
@@ -331,25 +376,27 @@
  '32.2% of the economic interests of the Companys capital stock and '
  'approximately 68.8% of the voting security interests, in each case on an as '
  'converted basis, as of December 31, 2014.')
-- shareholder_affiliation
+- governance
 
-('If an event of default occurs under the Operating Agreement, the additional '
- 'capital contributions could be accelerated and the entire unpaid amount of '
- 'the Companys capital contribution, up to the aggregate of 30,188 shares of '
- 'Series A-1 Preferred Stock (approximately 46.4 million shares of common '
- 'stock as converted) issuable under the Operating Agreement, could become '
- 'issuable immediately at the option of Northern Comstock LLC.')
-- shareholder_affiliation
+('As a result, the ability of holders of common stock to determine the '
+ 'management and policies of the Company is significantly limited.')
+- governance
+
+('To maintain its capital at desired levels or to fund future growth, the '
+ 'Board may decide from time to time to issue additional shares of common '
+ 'stock, or securities convertible into, exchangeable for or representing '
+ 'rights to acquire shares of common stock.')
+- social, governance
 
 ('New investors in other equity securities issued by the Company in the future '
  'may also have rights, preferences and privileges senior to the Companys '
  'current stockholders that may adversely impact its current stockholders.')
-- shareholder_affiliation
+- social
 
 ('Many of these private equity investments are inherently risky because the '
  "companies' businesses may never develop, and we may incur losses related to "
  'these investments.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('Such risk factors include the effects of possible disruption to the '
  'expansion of our production capacity, permit requirements, debt incurred or '
@@ -357,20 +404,20 @@
  'acquisition on our financial results, negative customer reaction to any such '
  "acquisition and our ability to successfully integrate an acquired company's "
  'operations with our operations.')
-- customer_orientation
+- governance
 
 ('If the purchase price of any acquired businesses exceeds the current fair '
  'values of the net tangible assets of such acquired businesses, we would be '
  'required to record material amounts of goodwill or other intangible assets, '
  'which could result in significant impairment and amortization expense in '
  'future periods.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('These charges, in addition to the results of operations of such acquired '
  'businesses and potential restructuring costs associated with an acquisition, '
  'could have a material adverse effect on our business, financial condition '
  'and results of operations.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('The amount of cash we can distribute to holders of our common units or other '
  'partnership securities each quarter principally depends on the amount of '
@@ -379,455 +426,243 @@
  'available for distribution will depend on other factors, including: Because '
  'of these and other factors, we may not have sufficient available cash to pay '
  'a specific level of cash distributions to our unitholders.')
-- supply_chain_problems, taxes
+- social
 
-('As a result, we may make cash distributions during periods when we record '
- 'net losses and may be unable to make cash distributions during periods when '
- 'we record net income.')
-- taxes
+('Please read Risks Related to our Business for a discussion of further risks '
+ 'affecting our ability to generate distributable cash flow.')
+- governance
 
 ('We may issue an unlimited number of limited partner interests, on terms and '
  'conditions established by our managing general partner, without the consent '
  'of our unitholders, which will dilute your ownership interest in us and may '
  'increase the risk that we will not have sufficient available cash to '
  'maintain or increase our per unit distribution level.')
-- shareholder_affiliation, taxes
+- governance
 
-('The issuance by us of additional common units or other equity securities of '
- 'equal or senior rank will have the following effects: The market price of '
- 'our common units could be adversely affected by sales of substantial amounts '
- 'of our common units in the public markets, including sales by our existing '
- 'unitholders.')
-- customer_orientation
+('The sale or disposition of a substantial number of our common units in the '
+ 'public markets could have a material adverse effect on the price of our '
+ 'common units or could impair our ability to obtain capital through an '
+ 'offering of equity securities.')
+- governance
 
 ('We do not know whether any such sales would be made in the public market or '
  'in private placements, nor do we know what impact such potential or actual '
  'sales would have on our unit price in the future.')
-- customer_orientation
+- social, governance
+
+('In exchange for accepting these risks, investors may expect to receive a '
+ 'higher rate of return than would otherwise be obtainable from lower-risk '
+ 'investments.')
+- governance
 
 ('Accordingly, as interest rates rise, the ability of investors to obtain '
  'higher risk-adjusted rates of return by purchasing government-backed debt '
  'securities may cause a corresponding decline in demand for riskier '
  'investments generally, including yield-based equity investments such as '
  'publicly traded limited partnership interests.')
-- customer_orientation, shareholder_affiliation, taxes
-
-('Reduced demand for our common units resulting from investors seeking other '
- 'more favorable investment opportunities may cause the trading price of our '
- 'common units to decline.')
-- customer_orientation
+- social, governance
 
 ('This is because our managing general partner can exercise significant '
  'influence over our business activities, including our cash distribution '
  'policy, acquisition strategy and business risk profile.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('Our unitholders do not elect our managing general partner or vote on our '
  'managing general partners officers or directors.')
-- shareholder_affiliation
+- governance
 
 ('Unlike the holders of common stock in a corporation, our unitholders have '
  'only limited voting rights on matters affecting our business and, therefore, '
  'limited ability to influence managements decisions regarding our business.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('Unitholders did not elect our managing general partner and will have no '
  'right to elect our managing general partner on an annual or other continuing '
  'basis.')
-- shareholder_affiliation
-
-('In addition, if our unitholders are dissatisfied with the performance of our '
- 'managing general partner, they will have little ability to remove our '
- 'general partner.')
-- shareholder_affiliation
+- governance
 
 ('Furthermore, unitholders voting rights are also restricted by a provision in '
  'our partnership agreement that provides that any units held by a person that '
  'owns 20.0% or more of any class of units then outstanding, other than our '
  'managing general partner and its affiliates, cannot be voted on any matter.')
-- shareholder_affiliation
+- governance
 
 ('The control of our managing general partner may be transferred to a '
  'third-party without unitholder consent.')
-- shareholder_affiliation
-
-('Our managing general partner may transfer its general partner interest in us '
- 'to a third-party in a merger or in a sale of its equity securities without '
- 'the consent of our unitholders.')
-- shareholder_affiliation, taxes
+- governance
 
 ('Furthermore, there is no restriction in the partnership agreement on the '
  'ability of the members of our managing general partner to sell or transfer '
  'all or part of their ownership interest in our managing general partner to a '
  'third-party.')
-- shareholder_affiliation, taxes
+- governance
 
 ('The new owner or owners of our managing general partner would then be in a '
  'position to replace the directors and officers of our managing general '
  'partner and control the decisions made and actions taken by the Board of '
  'Directors and officers.')
-- shareholder_affiliation
+- governance
 
 ('If at any time less than 20.0% of our outstanding common units are held by '
  'persons other than our general partners and their affiliates, our managing '
  'general partner will have the right to acquire all, but not less than all, '
  'of those units at a price no less than their then-current market price.')
-- shareholder_affiliation
-
-('Prior to making any distributions to our unitholders, we will reimburse our '
- 'general partners and their affiliates for all expenses they have incurred on '
- 'our behalf.')
-- shareholder_affiliation
+- governance
 
 ('For additional information, please see Item 7. Managements Discussion and '
  'Analysis of Financial Condition and Results of OperationsRelated-Party '
  'Transactions, Administrative Services, and Item 8. Financial Statements and '
  'Supplementary DataNote 19. Related-Party Transactions.')
-- shareholder_affiliation
+- governance
 
 ('As a limited partner in a partnership organized under Delaware law, you '
  'could be held liable for our obligations to the same extent as a general '
  'partner if you participate in the control of our business.')
-- shareholder_affiliation, taxes
-
-('Our general partners generally have unlimited liability for the obligations '
- 'of the partnership, except for those contractual obligations of the '
- 'partnership that are expressly made without recourse to our general '
- 'partners.')
-- shareholder_affiliation, taxes
-
-('Under Delaware law, we may not make a distribution to our unitholders if the '
- 'distribution would cause our liabilities to exceed the fair value of our '
- 'assets.')
-- litigation, taxes
-
-('Delaware law provides that for a period of three years from the date of the '
- 'impermissible distribution, partners who received the distribution and who '
- 'knew at the time of the distribution that it violated Delaware law will be '
- 'liable to the partnership for the distribution amount.')
-- litigation, supply_chain_problems, taxes
-
-('Liabilities to partners on account of their partnership interest and '
- 'liabilities that are non-recourse to the partnership are not counted for '
- 'purposes of determining whether a distribution is permitted.')
-- shareholder_affiliation, taxes
-
-('Our partnership agreement limits our managing general partners fiduciary '
- 'duties to our unitholders and restricts the remedies available to '
- 'unitholders for actions taken by our general partners that might otherwise '
- 'constitute breaches of fiduciary duty.')
-- shareholder_affiliation, taxes
+- governance
 
 ('Our partnership agreement contains provisions that waive or consent to '
  'conduct by our managing general partner and its affiliates and which reduce '
  'the obligations to which our managing general partner would otherwise be '
  'held by state-law fiduciary duty standards.')
-- shareholder_affiliation, taxes
-
-('The following is a summary of the material restrictions contained in our '
- 'partnership agreement on the fiduciary duties owed by our general partners '
- 'to the limited partners.')
-- shareholder_affiliation, taxes
-
-('Our partnership agreement: In order to become a limited partner of our '
- 'partnership, a common unitholder is required to agree to be bound by the '
- 'provisions in the partnership agreement, including the provisions discussed '
- 'above.')
-- shareholder_affiliation, taxes
+- governance
 
 ('Some of our executive officers and directors face potential conflicts of '
  'interest in managing our business.')
-- shareholder_affiliation
+- governance
 
-('Certain of our executive officers and directors are also officers and/or '
- 'directors of AHGP.')
-- shareholder_affiliation
+('These relationships may create conflicts of interest regarding corporate '
+ 'opportunities and other matters.')
+- governance
 
-('In addition, these overlapping executive officers and directors allocate '
- 'their time among us and AHGP.')
-- shareholder_affiliation
-
-('These officers and directors face potential conflicts regarding the '
- 'allocation of their time, which may adversely affect our business, results '
- 'of operations and financial condition.')
-- shareholder_affiliation
+('Our managing general partners discretion in determining the level of cash '
+ 'reserves may adversely affect our ability to make cash distributions to our '
+ 'unitholders.')
+- governance
 
 ('Our partnership agreement requires our managing general partner to deduct '
  'from operating surplus cash reserves that in its reasonable discretion are '
  'necessary for the proper conduct of our business, to comply with applicable '
  'law or agreements to which we are a party or to provide funds for future '
  'distributions to partners.')
-- shareholder_affiliation, taxes
-
-('Our general partners have conflicts of interest and limited fiduciary '
- 'responsibilities, which may permit our general partners to favor their own '
- 'interests to the detriment of our unitholders.')
-- shareholder_affiliation
-
-('Conflicts of interest could arise in the future as a result of relationships '
- 'between our general partners and their affiliates, on the one hand, and us, '
- 'on the other hand.')
-- shareholder_affiliation
-
-('As a result of these conflicts our general partners may favor their own '
- 'interests and those of their affiliates over the interests of our '
- 'unitholders.')
-- shareholder_affiliation
+- governance
 
 ('The nature of these conflicts includes the following considerations: Risks '
  'Related to our Business The current global recession and turmoil in '
  'financial markets could have a material adverse effect on our financial '
  'condition and results of operations.')
-- customer_orientation
+- governance
 
-'The current economic downturn has caused a decrease in demand for electricity.'
-- carbon_emissions
-
-('Because we sell most of our coal to electric utilities, any decrease in '
- 'demand for electricity may lead to a decline in demand for our coal.')
-- customer_orientation, carbon_emissions, supply_chain_problems
-
-('In addition, the instability of domestic and international financial markets '
- 'could cause a lack of capital availability for our customers, also reducing '
- 'demand.')
-- customer_orientation
-
-('The prices we receive for our production depends upon factors beyond our '
- 'control, including: A substantial or extended decline in coal prices could '
- 'materially and adversely affect us by decreasing our revenues in the event '
- 'that we are not otherwise protected pursuant to the specific terms of our '
- 'coal supply agreements.')
-- customer_orientation, supply_chain_problems
-
-('Competition within the coal industry may adversely affect our ability to '
- 'sell coal, and excess production capacity in the industry could put downward '
- 'pressure on coal prices.')
-- customer_orientation
-
-('We compete with other large coal producers and many small coal producers in '
- 'various regions of the U.S. for domestic coal sales.')
-- customer_orientation
-
-('Some power plants are fueled by natural gas because of the relatively '
- 'cheaper construction costs of such plants compared to coal-fired plants and '
- 'because natural gas is a cleaner burning fuel.')
-- carbon_emissions
-
-('The domestic electric utility industry accounts for approximately 90% of '
- 'domestic coal consumption.')
-- customer_orientation, carbon_emissions
+('Although we cannot predict the impact of current economic conditions, any '
+ 'resulting reduction in coal demand could adversely affect our business.')
+- governance
 
 ('The amount of coal consumed by the domestic electric utility industry is '
  'affected primarily by the overall demand for electricity, environmental and '
  'other governmental regulations, and the price and availability of competing '
  'fuels for power plants such as nuclear, natural gas and fuel oil as well as '
  'alternative sources of energy.')
-- customer_orientation, carbon_emissions, supply_chain_problems
-
-('For example, the recent decline in the price of natural gas has resulted, in '
- 'some instances, in utilities increasing natural gas consumption while '
- 'decreasing coal consumption.')
-- carbon_emissions
-
-('A decrease in coal consumption by the domestic electric utility industry '
- 'could adversely affect the price of coal, which could negatively impact our '
- 'results of operations and reduce our cash available for distribution.')
-- carbon_emissions
-
-('The stability and profitability of our operations could be adversely '
- 'affected if our customers do not honor existing contracts or do not extend '
- 'existing or enter into new long-term contracts for coal .')
-- customer_orientation
-
-('A substantial decrease in the amount of coal sold by us pursuant to '
- 'long-term contracts would reduce the certainty of the price and amounts of '
- 'coal sold and subject our revenue stream to increased volatility.')
-- customer_orientation
+- environmental, governance
 
 ('If that were to happen, changes in spot market coal prices would have a '
  'greater impact on our results, and any decreases in the spot market price '
  'for coal could adversely affect our profitability and cash flow.')
-- customer_orientation
+- governance
 
-('In 2008, we sold approximately 94.8% of our sales tonnage under contracts '
- 'having a term greater than one year.')
-- customer_orientation
-
-('Long-term sales contracts have historically provided a relatively secure '
- 'market for the amount of production committed under the terms of the '
- 'contracts.')
-- customer_orientation
-
-('From time to time industry conditions may make it more difficult for us to '
- 'enter into long-term contracts with our electric utility customers, and if '
- 'supply exceeds demand in the coal industry, electric utilities may become '
- 'less willing to lock in price or quantity commitments for an extended period '
- 'of time.')
-- customer_orientation, carbon_emissions, supply_chain_problems
-
-('Accordingly, we may not be able to continue to obtain long-term sales '
- 'contracts with reliable customers as existing contracts expire.')
-- customer_orientation
-
-('Some of our long-term coal supply agreements contain provisions allowing for '
- 'the renegotiation of prices and, in some instances, the termination of the '
- 'contract or the suspension of purchases by customers.')
-- customer_orientation
-
-('Several of our long-term contracts also contain provisions that allow the '
- 'customer to suspend or terminate performance under the contract upon the '
- 'occurrence or continuation of certain events that are beyond the customers '
- 'reasonable control.')
-- customer_orientation
-
-('Extensive environmental laws and regulations affect coal consumers, and have '
- 'corresponding effects on the demand for our coal as a fuel source.')
-- carbon_emissions
+('Such events may include labor disputes, mechanical malfunctions and changes '
+ 'in government regulations, including changes in the CAA rendering use of our '
+ 'coal inconsistent with the customers pollution control strategies.')
+- environmental, social, governance
 
 ('Federal, state and local laws and regulations extensively regulate the '
  'amount of sulfur dioxide, particulate matter, nitrogen oxides, mercury and '
  'other compounds emitted into the air from coal-fired electric power plants, '
  'which are the ultimate consumers of our coal.')
-- carbon_emissions
+- environmental, social
 
 ('These laws and regulations can require significant emission control '
  'expenditures for many coal-fired power plants, and various new and proposed '
  'laws and regulations may require further emission reductions and associated '
  'emission control expenditures.')
-- litigation, carbon_emissions
+- environmental, governance
 
 ('There is also continuing pressure on state and federal regulators to impose '
  'limits on carbon dioxide emissions from electric power plants, particularly '
  'coal-fired power plants.')
-- carbon_emissions
+- environmental
 
 ('As a result of these current and proposed laws, regulations and regulatory '
  'initiatives, electricity generators may elect to switch to other fuels that '
  'generate less of these emissions, possibly further reducing demand for our '
  'coal.')
-- carbon_emissions, supply_chain_problems
+- governance
 
 ('Please read Item 1. BusinessRegulation and LawsAir Emissions and Carbon '
  'Dioxide Emissions.')
-- carbon_emissions
+- environmental
 
 ('Increased regulation of greenhouse gas emissions could result in reduced '
  'demand for coal as a fuel source, which would reduce demand for our products '
  'and decrease our revenues.')
-- customer_orientation, carbon_emissions
+- environmental
 
 ('Recent scientific studies have suggested that emissions of certain gases, '
  'commonly referred to as greenhouse gases and including carbon dioxide, may '
  'be contributing to warming of the Earths atmosphere.')
-- carbon_emissions
+- environmental
 
 ('Combustion of fossil fuels, such as the coal we produce, results in the '
  'emission of carbon dioxide into the atmosphere.')
-- carbon_emissions
+- environmental
 
 ('The U.S. Congress is considering legislation to reduce emissions of '
  'greenhouse gases.')
-- carbon_emissions
+- environmental
 
 ('President Obama has expressed support for legislation to restrict or '
  'regulate emissions of greenhouse gases.')
-- carbon_emissions
+- environmental
 
 ('More than one-third of the states already have begun implementing legal '
  'measures to reduce emissions of greenhouse gases.')
-- carbon_emissions
+- environmental
 
 ('In addition, the Supreme Courts holding in 2007 in Massachusetts, et al. v. '
  'EPA that greenhouse gases including carbon dioxide fall under the CAAs '
  'definition of air pollutant may also result in future regulation of carbon '
  'dioxide and other greenhouse gas emissions from stationary sources such as '
  'power plants.')
-- carbon_emissions
+- environmental
 
 ('In July 2008, EPA released an Advance Notice of Proposed Rulemaking '
  'regarding possible future regulation of greenhouse gas emissions under the '
  'CAA, in response to the Courts decision in Massachusetts, et al. v. EPA.')
-- carbon_emissions
+- environmental, governance
 
 ('Although the notice did not propose any specific, new regulatory '
  'requirements for greenhouse gases, it indicates that federal regulation of '
  'greenhouse gas emissions could occur in the near future even if Congress '
  'does not adopt new legislation specifically addressing emissions of '
  'greenhouse gases.')
-- carbon_emissions
+- environmental, social, governance
 
 ('In addition, there have been an increasing number of challenges and '
  'objections to permits for the construction of new coal-fired power plants '
  'based on concerns over greenhouse gas emissions, and permits for several '
  'proposed new coal-fired power plants have been denied or delayed.')
-- carbon_emissions
+- environmental
 
 ('Future federal and state initiatives to control carbon dioxide emissions '
  'could result in increased costs associated with coal consumption, such as '
  'costs to install additional controls to reduce carbon dioxide emissions or '
  'costs to purchase emissions reduction credits to comply with future '
  'emissions trading programs.')
-- carbon_emissions
+- environmental, social, governance
 
-('Such increased costs for coal consumption could result in reduced demand for '
- 'coal and some customers switching to alternative sources of fuel, which '
- 'could have a material adverse effect on our business, financial condition, '
- 'and results of operations.')
-- customer_orientation, carbon_emissions
-
-('In addition, increased difficulty or inability of our customers to obtain '
- 'permits for construction of new or expansion of existing coal-fired power '
- 'plants could adversely affect demand for our coal and have an adverse effect '
- 'on our business and results of operation.')
-- customer_orientation, carbon_emissions
-
-('We depend on a few customers for a significant portion of our revenues, and '
- 'the loss of one or more significant customers could affect our ability to '
- 'maintain the sales volume and price of the coal we produce.')
-- customer_orientation, supply_chain_problems
-
-('During 2008, we derived approximately 46.8% of our total revenues from four '
- 'customers and at least 10.0% of our 2008 total revenues from each of the '
- 'four.')
-- customer_orientation
-
-('If we were to lose any of these customers without finding replacement '
- 'customers willing to purchase an equivalent amount of coal on similar terms, '
- 'or if these customers were to decrease the amounts of coal purchased or the '
- 'terms, including pricing terms, on which they buy coal from us, it could '
- 'have a material adverse effect on our business, financial condition and '
- 'results of operations.')
-- customer_orientation, supply_chain_problems
-
-('Litigation resulting from disputes with our customers may result in '
- 'substantial costs, liabilities and loss of revenues.')
-- customer_orientation, litigation
-
-('From time to time we have disputes with our customers over the provisions of '
- 'long-term coal supply contracts relating to, among other things, coal '
- 'pricing, quality, quantity and the existence of specified conditions beyond '
- 'our control that suspend performance obligations under the particular '
- 'contract.')
-- customer_orientation
-
-('Our ability to receive payment for coal sold and delivered depends on the '
- 'continued creditworthiness of our customers.')
-- customer_orientation, supply_chain_problems
-
-('If the creditworthiness of our customers declines significantly, our '
- 'business could be adversely affected.')
-- customer_orientation
-
-('In addition, if a customer refuses to accept shipments of our coal for which '
- 'they have an existing contractual obligation, our revenues will decrease and '
- 'we may have to reduce production at our mines until our customers '
- 'contractual obligations are honored.')
-- customer_orientation, supply_chain_problems
-
-('Prolonged disruption of production at any of our mines would result in a '
- 'decrease in our revenues and profitability, which could materially adversely '
- 'impact our quarterly or annual results.')
-- customer_orientation
+('As a result, we have elected to retain a participating interest in our '
+ 'commercial property insurance program at an average rate of approximately '
+ '14.7% in the overall $75.0 million of coverage, representing 22% of the '
+ 'primary $50.0 million layer.')
+- governance
 
 ('The aggregate maximum limit in the commercial property program is $75.0 '
  'million per occurrence of which, as a result of our participation, we are '
@@ -835,63 +670,39 @@
  'excluding a $1.5 million deductible for property damage, a $5.0 million '
  'aggregate deductible for extra expense and a 60-day waiting period for '
  'business interruption.')
-- customer_orientation
+- social
 
 ('We can make no assurances that we will not experience significant insurance '
  'claims in the future, which as a result of our level of participation in the '
  'commercial property program, could have a material adverse effect on our '
  'business, financial condition, results of operations and ability to purchase '
  'property insurance in the future.')
-- customer_orientation
-
-('A shortage of skilled labor may make it difficult for us to maintain labor '
- 'productivity and competitive costs and could adversely affect our '
- 'profitability.')
-- customer_orientation, supply_chain_problems
-
-('Efficient coal mining using modern techniques and equipment requires skilled '
- 'laborers, preferably with at least one year of experience and proficiency in '
- 'multiple mining tasks.')
-- hiring_employees
+- governance
 
 ('This shortage of experienced coal miners is the result of a significant '
  'percentage of experienced coal miners reaching retirement age, combined with '
  'the difficulty of retaining existing workers in and attracting new workers '
  'to the coal industry.')
-- hiring_employees
-
-('If the shortage of experienced labor continues or worsens, it could have an '
- 'adverse impact on our labor productivity and costs and our ability to expand '
- 'production in the event there is an increase in the demand for our coal, '
- 'which could adversely affect our profitability.')
-- customer_orientation, supply_chain_problems
+- governance
 
 ('Although none of our employees are members of unions, our work force may not '
  'remain union-free in the future.')
-- labor_issues
-
-'None of our employees is represented under collective bargaining agreements.'
-- labor_issues
+- social
 
 ('However, all of our work force may not remain union-free in the future, and '
  'proposed legislation such as the Employee Free Choice Act, could, if '
  'enacted, make staying union-free more difficult.')
-- labor_issues
-
-('If some or all of our currently union-free operations were to become '
- 'unionized, it could adversely affect our productivity and increase the risk '
- 'of work stoppages at our mining complexes.')
-- labor_issues
+- social
 
 ('In addition, even if we remain union-free, our operations may still be '
  'adversely affected by work stoppages at unionized companies, particularly if '
  'union workers were to orchestrate boycotts against our operations.')
-- labor_issues
+- social
 
 ('Our mining operations are subject to extensive and costly laws and '
  'regulations, and such current and future laws and regulations could increase '
  'current operating costs or limit our ability to produce coal.')
-- litigation
+- governance
 
 ('We are subject to numerous and comprehensive federal, state and local laws '
  'and regulations affecting the coal mining industry, including laws and '
@@ -901,17 +712,13 @@
  'mining is completed, the discharge or release of materials into the '
  'environment, surface subsidence from underground mining and the effects that '
  'mining has on groundwater quality and availability.')
-- litigation, carbon_emissions
-
-('Certain of these laws and regulations may impose joint and several strict '
- 'liability without regard to fault or legality of the original conduct.')
-- litigation
+- environmental, social, governance
 
 ('Failure to comply with these laws and regulations may result in the '
  'assessment of administrative, civil and criminal penalties, the imposition '
  'of remedial liabilities, and the issuance of injunctions limiting or '
  'prohibiting the performance of operations.')
-- litigation
+- governance
 
 ('The possibility exists that new laws or regulations may be adopted, or that '
  'judicial interpretations or more stringent enforcement of existing laws and '
@@ -920,96 +727,96 @@
  'as new requirements impacting our existing mining operations, or indirect '
  'impacts such as new laws and regulations that discourage or limit our '
  'customers use of coal.')
-- customer_orientation, natural_disaster, litigation
+- social, governance
 
 ('Congress and several state legislatures (including those in Illinois, '
  'Kentucky, West Virginia and Pennsylvania) have passed new laws addressing '
  'mine safety practices and imposing stringent new mine safety and accident '
  'reporting requirements and increased civil and criminal penalties for '
  'violations of mine safety laws.')
-- litigation
+- social
+
+('For more information, please read Item 1. BusinessRegulation and LawsMine '
+ 'Health and Safety Laws.')
+- social
+
+('Mining companies must obtain numerous governmental permits or approvals that '
+ 'impose strict conditions and obligations relating to various environmental '
+ 'and safety matters in connection with coal mining.')
+- social, governance
+
+('Accordingly, permits required by us to conduct our operations may not be '
+ 'issued, maintained or renewed, or may not be issued or renewed in a timely '
+ 'fashion, or may involve requirements that restrict our ability to '
+ 'economically conduct our mining operations.')
+- governance
+
+('Limitations on our ability to conduct our mining operations due to the '
+ 'inability to obtain or renew necessary permits or similar approvals could '
+ 'reduce our production, cash flow and profitability.')
+- governance
+
+('Lawsuits filed in the federal Southern District of Western Virginia and in '
+ 'the federal Eastern District of Kentucky have sought to enjoin the issuance '
+ 'of permits pursuant to Nationwide Permit 21, which is a general permit '
+ 'issued by the Corps of Engineers to streamline the process for obtaining '
+ 'permits under Section 404 of the CWA.')
+- governance
 
 ('In the event current or future litigation contesting the use of Nationwide '
  'Permit 21 is successful, we may be required to apply for individual '
  'discharge permits pursuant to Section 404 of the CWA in areas that would '
  'have otherwise utilized Nationwide Permit 21.')
-- hiring_employees
+- social
 
-('In addition, lawsuits filed in the federal Southern District of West '
- 'Virginia and in the federal Western District of Kentucky have challenged the '
- 'Corps of Engineers issuance of certain individual Section 404 permits.')
-- litigation
-
-('Fluctuations in transportation costs and the availability or reliability of '
- 'transportation could reduce revenues by causing us to reduce our production '
- 'or by impairing our ability to supply coal to our customers.')
-- customer_orientation, supply_chain_problems
-
-('Transportation costs represent a significant portion of the total cost of '
- 'coal for our customers and, as a result, the cost of transportation is a '
- 'critical factor in a customers purchasing decision.')
-- customer_orientation, supply_chain_problems
-
-('Increases in transportation costs could make coal a less competitive source '
- 'of energy or could make our coal production less competitive than coal '
- 'produced from other sources.')
-- customer_orientation, supply_chain_problems
-
-('Historically, high coal transportation rates from the western coal producing '
- 'areas into certain eastern markets limited the use of western coal in those '
- 'markets.')
-- customer_orientation
-
-('Lower or higher rail rates from the western coal producing areas to markets '
- 'served by eastern U.S. coal producers have created major competitive '
- 'challenges, as well as opportunities, for eastern coal producers.')
-- customer_orientation
-
-('In the event of lower transportation costs, the increased competition could '
- 'have a material adverse effect on our business, financial condition and '
- 'results of operations.')
-- customer_orientation
-
-('Disruption of transportation services due to weather-related problems, '
- 'flooding, drought, accidents, mechanical difficulties, strikes, lockouts, '
- 'bottlenecks or other events could temporarily impair our ability to supply '
- 'coal to our customers.')
-- customer_orientation, natural_disaster, carbon_emissions, supply_chain_problems
-
-('Our transportation providers may face difficulties in the future that may '
- 'impair our ability to supply coal to our customers, resulting in decreased '
- 'revenues.')
-- customer_orientation, supply_chain_problems
-
-('If there are disruptions of the transportation services provided by our '
- 'primary rail or barge carriers that transport our coal and we are unable to '
- 'find alternative transportation providers to ship our coal, our business '
- 'could be adversely affected.')
-- supply_chain_problems
-
-('It is possible that all states in which our coal is transported by truck may '
- 'modify their laws to limit truck weight limits.')
-- supply_chain_problems
-
-('Moreover, any acquisition could be dilutive to earnings and distributions to '
- 'unitholders and any additional debt incurred to finance an acquisition could '
- 'affect our ability to make distributions to unitholders.')
-- taxes
+('Our future growth could be limited if we are unable to continue to make '
+ 'acquisitions, or if we are unable to successfully integrate the companies, '
+ 'businesses or properties we acquire.')
+- governance
 
 ('If we are unable to successfully integrate the companies, businesses or '
  'properties we acquire, our profitability may decline and we could experience '
  'a material adverse effect on our business, financial condition, or results '
  'of operations.')
-- customer_orientation, shareholder_affiliation
+- governance
 
-('The unavailability of an adequate supply of coal reserves that can be mined '
- 'at competitive costs could cause our profitability to decline.')
-- customer_orientation
+('The debt and equity capital markets have been exceedingly distressed as a '
+ 'result of concerns about the stability of financial markets generally and '
+ 'the solvency of counterparties specifically.')
+- governance
 
-('Our profitability depends substantially on our ability to mine coal reserves '
- 'that have the geological characteristics that enable them to be mined at '
- 'competitive costs and to meet the quality needed by our customers.')
-- customer_orientation
+('These issues, along with significant write-offs in the financial services '
+ 'sector, the re-pricing of credit risk and the current weak economic '
+ 'conditions have made, and will likely continue to make, it difficult to '
+ 'obtain funding.')
+- social
+
+('The cost of obtaining money from the credit markets generally has also '
+ 'increased as many lenders and institutional investors have raised interest '
+ 'rates, enacted tighter lending standards, refused to refinance existing debt '
+ 'at maturity at all or on terms similar to expiring terms and, in some cases, '
+ 'reduced or ceased to provide funding to borrowers under existing facilities.')
+- governance
+
+('For a discussion of how these tighter lending standards may impact our 2009 '
+ 'capital expenditure plans, please read Item 7. Managements Discussion and '
+ 'Analysis of Financial Condition and Results of OperationsLiquidity and '
+ 'Capital ResourcesCapital Expenditures.')
+- governance
+
+('The credit market and debt and equity capital market conditions discussed '
+ 'above could negatively impact our credit ratings or our ability to remain in '
+ 'compliance with the financial covenants under our revolving credit agreement '
+ 'which could have a material adverse effect on our financial condition, '
+ 'results of operations and cash flows.')
+- governance
+
+('Our ability to obtain other reserves in the future could be limited by '
+ 'restrictions under our existing or future debt agreements, competition from '
+ 'other coal companies for attractive properties, the lack of suitable '
+ 'acquisition candidates or the inability to acquire coal properties on '
+ 'commercially reasonable terms.')
+- governance
 
 ('We have no reason to believe that there exists any risk of loss of these '
  'leasehold rights given the terms and provisions of the subject leases and '
@@ -1017,79 +824,83 @@
  'event of any loss of these leasehold rights, operations could be disrupted '
  'or otherwise adversely impacted as a result of increased costs associated '
  'with retaining the necessary land use.')
-- natural_disaster
-
-('We use significant amounts of steel, petroleum products and other raw '
- 'materials in various pieces of mining equipment, supplies and materials, '
- 'including the roof bolts required by the room and pillar method of mining.')
-- customer_orientation
-
-('There may be acts of nature or terrorist attacks or threats that could also '
- 'impact the future costs of raw materials.')
-- natural_disaster
-
-('Future volatility in the price of steel, petroleum products or other raw '
- 'materials will impact our operational expenses and could result in '
- 'significant fluctuations to our profitability.')
-- customer_orientation
+- social
 
 ('We will be prohibited from making cash distributions: Various limitations in '
  'our debt agreements may reduce our ability to incur additional indebtedness, '
  'to engage in some transactions and to capitalize on business opportunities.')
-- shareholder_affiliation
+- governance
+
+('Federal and state laws require bonds to secure our obligations related to '
+ 'statutory reclamation requirements and workers compensation and black lung '
+ 'benefits.')
+- social, governance
+
+('Our inability to acquire or failure to maintain surety bonds that are '
+ 'required by state and federal law would have a material adverse effect on '
+ 'us.')
+- governance
+
+('Federal and state laws require us to place and maintain bonds to secure our '
+ 'obligations to repair and return property to its approximate original state '
+ 'after it has been mined (often referred to as reclaim or reclamation), to '
+ 'pay federal and state workers compensation and pneumoconiosis, or black '
+ 'lung, benefits and to satisfy other miscellaneous obligations.')
+- social, governance
 
 ('The failure to maintain or the inability to acquire sufficient surety bonds, '
  'as required by state and federal laws, could subject us to fines and '
  'penalties and result in the loss of our mining permits.')
-- litigation
+- governance
+
+('Such failure could result from a variety of factors, including: We have '
+ 'outstanding surety bonds with third-parties for reclamation expenses, '
+ 'federal and state workers compensation obligations and other miscellaneous '
+ 'obligations.')
+- social
 
 ('If we were to become subject to entity-level taxation for federal or state '
  'tax purposes, our cash available for distribution to you would be '
  'substantially reduced.')
-- taxes
+- governance
 
 ('The anticipated after-tax benefit of an investment in our units depends '
  'largely on our being treated as a partnership for federal income tax '
  'purposes.')
-- shareholder_affiliation, taxes
+- governance
 
 ('Despite the fact that we are a limited partnership under Delaware law, it is '
  'possible in certain circumstances for a partnership such as ours to be '
  'treated as a corporation for federal income tax purposes.')
-- shareholder_affiliation, taxes
+- governance
 
 ('Although we do not believe, based upon our current operations, that we are '
  'so treated, a change in our business (or a change in current law) could '
  'cause us to be treated as a corporation for federal income tax purposes or '
  'otherwise subject us to taxation as an entity.')
-- shareholder_affiliation, taxes
+- environmental, governance
 
 ('If we were treated as a corporation for federal income tax purposes, we '
  'would pay federal income tax on our taxable income at the corporate tax '
  'rate, which is currently a maximum of 35% and would likely pay state income '
  'tax at varying rates.')
-- customer_orientation, shareholder_affiliation, taxes
+- social, governance
 
 ('Distributions to you would generally be taxed again as corporate '
  'distributions, and no income, gains, losses, deductions or credits would '
  'flow through to you.')
-- taxes
+- governance
 
 ('Current law may change, causing us to be treated as a corporation for '
  'federal income tax purposes or otherwise subjecting us to entity-level '
  'taxation.')
-- taxes
-
-('At the federal level, legislation has recently been considered that would '
- 'have eliminated partnership tax treatment for certain publicly traded '
- 'partnerships.')
-- shareholder_affiliation, taxes
+- governance
 
 ('At the state level, because of widespread state budget deficits and other '
  'reasons, several states are evaluating ways to subject partnerships to '
  'entity-level taxation through the imposition of state income, franchise or '
  'other forms of taxation.')
-- taxes
+- social, governance
 
 ('Our partnership agreement provides that if a law is enacted or existing law '
  'is modified or interpreted in a manner that subjects us to taxation as a '
@@ -1097,376 +908,146 @@
  'state or local income tax purposes, the minimum quarterly distribution '
  'amount and the target distribution amounts may be adjusted to reflect the '
  'impact of that law on us.')
-- shareholder_affiliation, litigation, supply_chain_problems, taxes
+- governance
 
 ('If the IRS were to contest the federal income tax positions we take, it may '
  'adversely impact the market for our common units, and the costs of any such '
  'contest would reduce cash available for distribution to our unitholders.')
-- taxes
+- governance
 
 ('We have not requested a ruling from the IRS with respect to our treatment as '
  'a partnership for federal income tax purposes.')
-- taxes
+- governance
 
-('It may be necessary to resort to administrative or court proceedings to '
- 'sustain some or all of the positions we take.')
-- litigation
-
-('Moreover, the costs of any contest between us and the IRS will result in a '
- 'reduction in cash available for distribution to our unitholders and thus '
- 'will be borne indirectly by our unitholders.')
-- taxes
-
-('Even if you do not receive any cash distributions from us, you will be '
- 'required to pay taxes on your share of our taxable income.')
-- taxes
+('Any contest with the IRS may materially and adversely impact the market for '
+ 'our common units and the prices at which they trade.')
+- governance
 
 ('You will be required to pay federal income taxes and, in some cases, state '
  'and local income taxes, on your share of our taxable income, whether or not '
  'you receive cash distributions from us.')
-- customer_orientation, taxes
-
-('You may not receive cash distributions from us equal to your share of our '
- 'taxable income or even equal to the actual tax liability that result from '
- 'your share of our taxable income.')
-- taxes
-
-('Because distributions in excess of your allocable share of our net taxable '
- 'income decrease your tax basis in your units, the amount, if any, of such '
- 'prior excess distributions with respect to the units you sell will, in '
- 'effect, become taxable income to you if you sell such units at a price '
- 'greater than your tax basis therein, even if the price you receive is less '
- 'than your original cost.')
-- customer_orientation, supply_chain_problems, taxes
-
-('In addition, because the amount realized includes a unitholders share of our '
- 'non-recourse liabilities, if you sell your units, you may incur a tax '
- 'liability in excess of the amount of cash you receive from the sale.')
-- taxes
+- social, governance
 
 ('Tax-exempt entities and non-U.S. persons owning our units face unique tax '
  'issues that may result in adverse tax consequences to them.')
-- taxes
+- governance
+
+('Investment in our units by tax-exempt entities, such as individual '
+ 'retirement accounts (known as IRAs) and non-U.S. persons, raises issues '
+ 'unique to them.')
+- governance
 
 ('For example, virtually all of our income allocated to organizations exempt '
  'from federal income tax, including individual retirement accounts and other '
  'retirement plans, will be unrelated business taxable income and will be '
  'taxable to them.')
-- customer_orientation, taxes
+- governance
 
 ('Distributions to non-U.S. persons will be reduced by withholding taxes at '
  'the highest applicable effective tax rate, and non-U.S. persons will be '
  'required to file U.S. federal income tax returns and pay tax on their share '
  'of our taxable income.')
-- taxes
+- social, governance
 
 ('A successful IRS challenge to those positions could adversely affect the '
  'amount of tax benefits available to you.')
-- taxes
+- governance
 
 ('It also could affect the timing of these tax benefits or the amount of gain '
  'from your sale of units and could have a negative impact on the value of our '
  'units or result in audit adjustments to your tax returns.')
-- taxes
-
-('The IRS may challenge this treatment, which could change the allocation of '
- 'items of income, gain, loss and deduction among our unitholders.')
-- taxes
-
-('If the IRS were to challenge this method or new Treasury Regulations were '
- 'issued, we may be required to change the allocation of items of income, '
- 'gain, loss and deduction among our unitholders.')
-- taxes
-
-('Because a unitholder whose units are loaned to a short seller to cover a '
- 'short sale of units may be considered as having disposed of the loaned '
- 'units, he may no longer be treated for tax purposes as a partner with '
- 'respect to those units during the period of the loan to the short seller and '
- 'the unitholder may recognize gain or loss from such disposition.')
-- customer_orientation, shareholder_affiliation, taxes
-
-('Moreover, during the period of the loan to the short seller, any of our '
- 'income, gain, loss or deduction with respect to those units may not be '
- 'reportable by the unitholder and any cash distributions received by the '
- 'unitholder as to those units could be fully taxable as ordinary income.')
-- customer_orientation, taxes
+- governance
 
 ('Unitholders desiring to assure their status as partners and avoid the risk '
  'of gain recognition from a loan to a short seller are urged to modify any '
  'applicable brokerage account agreements to prohibit their brokers from '
  'borrowing their units.')
-- shareholder_affiliation
+- governance
 
 ('When we issue additional units or engage in certain other transactions, we '
  'determine the fair market value of our assets and allocate any unrealized '
  'gain or loss attributable to our assets to the capital accounts of our '
  'unitholders and our general partner.')
-- shareholder_affiliation
-
-('In that case, there may be a shift of income, gain, loss and deduction '
- 'between certain unitholders and the general partner, which may be '
- 'unfavorable to such unitholders.')
-- shareholder_affiliation
-
-('Moreover, under our valuation methods, subsequent purchasers of common units '
- 'may have a greater portion of their Internal Revenue Code Section 743(b) '
- 'adjustment allocated to our intangible assets and a lesser portion allocated '
- 'to our tangible assets.')
-- customer_orientation
-
-('The IRS may challenge our valuation methods, or our allocation of the '
- 'Section 743(b) adjustment attributable to our tangible and intangible '
- 'assets, and allocations of income, gain, loss and deduction between the '
- 'general partner and certain of our unitholders.')
-- taxes
-
-('A successful IRS challenge to these methods or allocations could adversely '
- 'affect the amount of taxable income or loss being allocated to our '
- 'unitholders.')
-- taxes
+- governance
 
 ('It also could affect the amount of gain from our unitholders sale of common '
  'units and could have a negative impact on the value of the common units or '
  'result in audit adjustments to our unitholders tax returns without the '
  'benefit of additional deductions.')
-- taxes
-
-('The sale or exchange of 50% or more of our capital and profits interests '
- 'within a twelve-month period will result in the termination of our '
- 'partnership for federal income tax purposes.')
-- customer_orientation, taxes
-
-('We will be considered to have terminated our partnership for federal income '
- 'tax purposes if there is a sale or exchange of 50% or more of the total '
- 'interests in our capital and profits within a twelve-month period.')
-- customer_orientation, taxes
-
-('Our termination would, among other things, result in the closing of our '
- 'taxable year for all unitholders, which would result in us filing two tax '
- 'returns (and our unitholders could receive two Schedules K-1) for one fiscal '
- 'year and could result in a deferral of depreciation deductions allowable in '
- 'computing our taxable income.')
-- taxes
-
-('In the case of a unitholder reporting on a taxable year other than a fiscal '
- 'year ending December 31, the closing of our taxable year may also result in '
- 'more than twelve months of our taxable income or loss being includable in '
- 'his taxable income for the year of termination.')
-- taxes
-
-('A termination does not affect our classification as a partnership for '
- 'federal income tax purposes.')
-- taxes
-
-('You will likely be subject to state and local taxes and income tax return '
- 'filing requirements in jurisdictions where you do not live as a result of '
- 'investing in our units.')
-- taxes
+- governance
 
 ('In addition to federal income taxes, you will likely be subject to other '
  'taxes, such as state and local income taxes, unincorporated business taxes '
  'and estate, inheritance or intangible taxes that are imposed by the various '
  'jurisdictions in which we do business or own property.')
-- customer_orientation, shareholder_affiliation, taxes
+- governance
 
 ('You will likely be required to file state and local income tax returns and '
  'pay state and local income taxes in some or all of these various '
  'jurisdictions.')
-- taxes
+- social, governance
 
-('In turn, the prices we receive for our coal depend upon factors beyond our '
- 'control, including the following: Declines in the prices we receive for our '
- 'coal could adversely affect our profitability and the value of our coal '
- 'reserves.')
-- supply_chain_problems
-
-('Certain factors beyond our control, including those listed below, could '
- 'disrupt our coal mining operations, reduce our production or increase our '
- 'operating costs: If any of these conditions or events occurs, particularly '
- 'at our Black Thunder mining complex, our coal mining operations may be '
- 'disrupted, we could experience a delay or halt of production or our '
- 'operating costs could increase significantly.')
-- hiring_employees, natural_disaster
-
-('Our coal mining operations use significant amounts of steel, diesel fuel, '
- 'rubber tires and other mining and industrial supplies.')
-- carbon_emissions
-
-('If the prices of mining and other industrial supplies, particularly '
- 'steel-based supplies, diesel fuel and rubber tires, increase, our operating '
- 'costs could be negatively affected.')
-- customer_orientation, carbon_emissions
-
-('In addition, if we are unable to procure these supplies, our coal mining '
- 'operations may be disrupted or we could experience a delay or halt in our '
- 'production.')
-- customer_orientation
-
-('Efficient coal mining using modern techniques and equipment requires skilled '
- 'workers with experience and proficiency in multiple mining tasks.')
-- hiring_employees
-
-('In addition, employee turnover rates in the coal industry have increased '
- 'during this period as coal producers compete for skilled personnel.')
-- hiring_employees
+'We may own property or conduct business in other states in the future.'
+- governance
 
 ('Because of the shortage of trained coal miners in recent years, we have '
  'operated certain facilities without full staff and have hired novice miners, '
  'who are required to be accompanied by experienced workers as a safety '
  'precaution.')
-- hiring_employees
+- social
 
-('In addition, we purchase coal from third parties that we sell to our '
- 'customers.')
-- customer_orientation
+('As a result, our ability to produce coal in the future depends, in part, on '
+ 'our ability to acquire additional coal reserves.')
+- governance
 
-('Operational difficulties at contractor-operated mines or mines operated by '
- 'third parties from whom we purchase coal, changes in demand for contract '
- 'miners from other coal producers and other factors beyond our control could '
- 'affect the availability, pricing, and quality of coal produced for or '
- 'purchased by us.')
-- customer_orientation
-
-('Disruptions in the quantities of coal produced for or purchased by us could '
- 'impair our ability to fill our customer orders or require us to purchase '
- 'coal from other sources in order to satisfy those orders.')
-- customer_orientation
-
-('If we are unable to fill a customer order or if we are required to purchase '
- 'coal from other sources in order to satisfy a customer order, we could lose '
- 'existing customers and our operating costs could increase.')
-- customer_orientation, supply_chain_problems
-
-('We depend upon barge, ship, rail, truck and belt transportation systems to '
- 'deliver coal to our customers.')
-- supply_chain_problems
-
-('Disruptions in transportation services due to weather-related problems, '
- 'mechanical difficulties, strikes, lockouts, bottlenecks, and other events '
- 'could impair our ability to supply coal to our customers.')
-- customer_orientation, natural_disaster, carbon_emissions, supply_chain_problems
-
-('As we do not have long-term contracts with transportation providers to '
- 'ensure consistent and reliable service, decreased performance levels over '
- 'longer periods of time could cause our customers to look to other sources '
- 'for their coal needs.')
-- supply_chain_problems
-
-('In addition, increases in transportation costs, including the price of '
- 'gasoline and diesel fuel, could make coal a less competitive source of '
- 'energy when compared to alternative fuels or could make coal produced in one '
- 'region of the United States less competitive than coal produced in other '
- 'regions of the United States or abroad.')
-- customer_orientation, carbon_emissions, supply_chain_problems
-
-('If we experience disruptions in our transportation services or if '
- 'transportation costs increase significantly and we are unable to find '
- 'alternative transportation providers, our coal mining operations may be '
- 'disrupted, we could experience a delay or halt of production or our '
- 'profitability could decrease significantly.')
-- customer_orientation, natural_disaster, supply_chain_problems
-
-('Certain risks, including those listed below, could cause us not to realize '
- 'the benefits we expect to occur as a result of those acquisitions: We sell a '
- 'portion of our coal under long-term coal supply agreements, which we define '
- 'as contracts with terms greater than one year.')
-- customer_orientation
-
-('Changes in the coal industry may cause some of our customers not to renew, '
- 'extend or enter into new long-term coal supply agreements with us or to '
- 'enter into agreements to purchase fewer tons of coal than in the past or on '
- 'different terms or prices.')
-- customer_orientation, shareholder_affiliation
+('We base our estimates of reserve information on engineering, economic and '
+ 'geological data assembled, analyzed and reviewed by internal and third-party '
+ 'engineers and consultants.')
+- governance
 
 ('In addition, uncertainty caused by federal and state regulations, including '
  'the Clean Air Act, could deter our customers from entering into long-term '
  'coal supply agreements.')
-- customer_orientation
+- environmental
 
-('Because we sell a portion of our coal production under long-term coal supply '
- 'agreements, our ability to capitalize on more favorable market prices may be '
- 'limited.')
-- customer_orientation, supply_chain_problems
-
-('Conversely, at any given time we are subject to fluctuations in market '
- 'prices for the quantities of coal that we have produced but which we have '
- 'not committed to sell.')
-- customer_orientation
-
-('Our profitability may be adversely affected if we are unable to sell '
- 'uncommitted production at favorable prices or at all.')
-- customer_orientation, supply_chain_problems
-
-('For the year ended December 31, 2007, we derived approximately 25.3% of our '
- 'total coal revenues from sales to our three largest customers, Tennessee '
- 'Valley Authority, Ameren Corporation and Intermountain Power Agency, and '
- 'approximately 49.5% of our total coal revenues from sales to our ten largest '
- 'customers.')
-- customer_orientation, taxes
-
-('At December 31, 2007, we had coal supply agreements with those ten customers '
- 'that expire at various times from 2008 to 2017.')
-- customer_orientation
-
-('We expect to renew, extend or enter into new long-term coal supply '
- 'agreements with those and other customers.')
-- customer_orientation
-
-('However, we may be unsuccessful in obtaining long-term coal supply '
- 'agreements with those customers, and those customers may discontinue '
- 'purchasing coal from us.')
-- customer_orientation, supply_chain_problems
-
-('If any of those customers, particularly any of our three largest customers, '
- 'was to significantly reduce the quantities of coal it purchases from us, or '
- 'if we are unable to sell coal to those customers on terms as favorable to us '
- 'as the terms under our current long-term coal supply agreements, our '
- 'profitability could suffer significantly.')
-- customer_orientation, supply_chain_problems
+('As described above under A substantial or extended decline in coal prices '
+ 'could negatively affect our profitability and the value of our coal '
+ 'reserves, the market prices for coal may be volatile and may depend upon '
+ 'factors beyond our control.')
+- governance
 
 ('We have limited protection during adverse economic conditions and may face '
  'economic penalties if we are unable to satisfy certain quality '
  'specifications under our long-term coal supply agreements.')
-- carbon_emissions
-
-('Most of our long-term coal supply agreements also contain provisions '
- 'requiring us to deliver coal that satisfies certain quality specifications, '
- 'such as heat value, sulfur content, ash content, hardness and ash fusion '
- 'temperature.')
-- supply_chain_problems
-
-('These provisions in our long-term coal supply agreements could result in '
- 'negative economic consequences to us, including price adjustments, '
- 'purchasing replacement coal in a higher-priced open market, the rejection of '
- 'deliveries or, in the extreme, contract termination.')
-- customer_orientation
+- governance
 
 ('Our profitability may be negatively affected if we are unable to seek '
  'protection during adverse economic conditions or if we incur financial or '
  'other economic penalties as a result of these provisions of our long-term '
  'supply agreements.')
-- carbon_emissions
+- governance
 
-('We have agreed to guarantee Magnums obligations to supply coal under certain '
- 'coal sales contracts that we sold to Magnum.')
-- customer_orientation
+('Federal and state laws require us to obtain surety bonds to secure '
+ 'performance or payment of certain long-term obligations, such as mine '
+ 'closure or reclamation costs, federal and state workers compensation costs, '
+ 'coal leases and other obligations.')
+- social, governance
 
-('If Magnum cannot supply the coal required under these coal sales contracts, '
- 'we would be required to purchase coal on the open market or supply coal from '
- 'our existing operations in order to satisfy our obligations under these '
- 'contracts.')
-- customer_orientation
+('Our failure to maintain, or our inability to acquire, surety bonds required '
+ 'by federal and state law could affect our ability to secure reclamation and '
+ 'coal lease obligations and, therefore, our ability to mine or lease coal.')
+- governance
+
+('Terrorist attacks and threats, escalation of military activity or acts of '
+ 'war have significant effects on general economic conditions, fluctuations in '
+ 'consumer confidence and spending and market liquidity.')
+- social, governance
 
 ('Future terrorist attacks, rumors or threats of war, actual conflicts '
  'involving the United States or its allies, or military or trade disruptions '
  'affecting our customers may significantly affect our operations and those of '
  'our customers.')
-- customer_orientation
-
-('As a result, we could experience delays or losses in transportation and '
- 'deliveries of coal to our customers, decreased sales of our coal or extended '
- 'collections from our customers.')
-- customer_orientation, supply_chain_problems
+- social, governance
 
 ('Risks Related to Environmental and Other Regulations Governmental '
  'regulations, including those related to the matters listed below, have '
@@ -1474,7 +1055,7 @@
  'requirements associated with these regulations may be significant and '
  'time-consuming and may delay commencement or continuation of exploration or '
  'production operations.')
-- customer_orientation
+- governance
 
 ('Failure to comply with these regulations may result in the assessment of '
  'administrative, civil and criminal penalties, the imposition of cleanup and '
@@ -1482,11 +1063,11 @@
  'cease operations, the suspension or revocation of permits and other '
  'enforcement measures that could have the effect of limiting production from '
  'our mining operations.')
-- litigation
+- governance
 
 ('We may also incur costs and liabilities resulting from claims for damages to '
  'property or injury to persons arising from our operations.')
-- litigation
+- social
 
 ('New legislation or administrative regulations (or new judicial '
  'interpretations or administrative enforcement of existing laws and '
@@ -1494,205 +1075,117 @@
  'environment that would further regulate and tax our business or our '
  'customers, may also require us or our customers to change operations '
  'significantly or incur increased costs.')
-- customer_orientation, litigation
+- social, governance
+
+('You should see Safety and Environmental Regulations beginning on page 14 for '
+ 'more information about the various governmental regulations affecting us.')
+- social, governance
+
+('Mining companies must obtain numerous permits that regulate environmental '
+ 'and health and safety matters in connection with coal mining, including '
+ 'permits issued by various federal and state agencies and regulatory bodies.')
+- environmental, social, governance
+
+('The permits may also involve requirements that may be changed or interpreted '
+ 'in a manner which restricts our ability to conduct our mining operations or '
+ 'to do so profitably.')
+- governance
 
 ('Coal contains impurities, including but not limited to sulfur, mercury, '
  'chlorine, carbon and other elements or compounds, many of which are released '
  'into the air when coal is burned.')
-- carbon_emissions
+- environmental
 
 ('Stricter environmental regulations of emissions from coal-fueled power '
  'plants could increase the costs of using coal thereby reducing demand for '
  'coal as a fuel source and the volume and price of our coal sales.')
-- carbon_emissions
-
-('Stricter regulations could make coal a less attractive fuel alternative in '
- 'the planning and building of power plants in the future.')
-- carbon_emissions
+- environmental
 
 ('Proposed reductions in emissions of mercury, sulfur dioxides, nitrogen '
  'oxides, particulate matter or greenhouse gases may require the installation '
  'of costly emission control technology or the implementation of other '
  'measures, including trading of emission allowances and switching to other '
  'fuels.')
-- carbon_emissions
+- environmental
 
 ('For example, in order to meet the federal Clean Air Act limits for sulfur '
  'dioxide emissions from power plants, coal users may need to install '
  'scrubbers, use sulfur dioxide emission allowances (some of which they may '
  'purchase), blend high sulfur coal with low-sulfur coal or switch to other '
  'fuels.')
-- carbon_emissions
-
-('Reductions in mercury emissions required by certain states will likely '
- 'require some power plants to install new equipment, at substantial cost, or '
- 'discourage the use of certain coals containing higher levels of mercury.')
-- carbon_emissions
+- environmental
 
 ('Recent and new proposals calling for reductions in emissions of carbon '
  'dioxide and other greenhouse gases could significantly increase the cost of '
  'operating existing coal-fueled power plants and could inhibit construction '
  'of new coal-fueled power plants.')
-- carbon_emissions
-
-('Existing or proposed legislation focusing on emissions enacted by the United '
- 'States or individual states could make coal a less attractive fuel '
- 'alternative for our customers and could impose a tax or fee on the producer '
- 'of the coal.')
-- customer_orientation
+- environmental
 
 ('If our customers decrease the volume of coal they purchase from us or switch '
  'to alternative fuels as a result of existing or future environmental '
  'regulations aimed at reducing emissions, our operations and financial '
  'results could be adversely impacted.')
-- carbon_emissions
+- environmental, governance
+
+('The estimates can change significantly if actual costs vary from assumptions '
+ 'or if governmental regulations change significantly.')
+- environmental
+
+('Statement of Financial Accounting Standards No. 143, Accounting for Asset '
+ 'Retirement Obligations, which we refer to as Statement No. 143, requires us '
+ 'to record these obligations as liabilities at fair value.')
+- governance
+
+('Our operations currently use hazardous materials and generate limited '
+ 'quantities of hazardous wastes from time to time.')
+- environmental, social
 
 ('We could become subject to claims for toxic torts, natural resource damages '
  'and other damages as well as for the investigation and clean up of soil, '
  'surface water, groundwater, and other media.')
-- litigation, carbon_emissions
+- environmental
 
 ('Such claims may arise, for example, out of conditions at sites that we '
  'currently own or operate, as well as at sites that we previously owned or '
  'operated, or may acquire.')
-- hiring_employees
-
-('Our liability for such claims may be joint and several, so that we may be '
- 'held responsible for more than our share of the contamination or other '
- 'damages, or even for the entire share.')
-- litigation
+- governance
 
 ('Structural failure of an impoundment can result in extensive damage to the '
  'environment and natural resources, such as bodies of water that the coal '
  'slurry reaches, as well as liability for related personal injuries and '
  'property damages, and injuries to wildlife.')
-- natural_disaster, litigation, carbon_emissions
+- environmental, social
 
-('If one of our impoundments were to fail, we could be subject to substantial '
- 'claims for the resulting environmental contamination and associated '
- 'liability, as well as for fines and penalties.')
-- litigation
+('These and other similar unforeseen impacts that our operations may have on '
+ 'the environment, as well as exposures to hazardous substances or wastes '
+ 'associated with our operations, could result in costs and liabilities that '
+ 'could materially and adversely affect us.')
+- environmental
 
-('We may not be able to increase the price we charge for coal to cover higher '
- 'production costs without reducing customer demand for our coal.')
-- customer_orientation, supply_chain_problems
+('Some of these permits are Clean Water Act 404 permits issued by the Army '
+ 'Corps of Engineers.')
+- environmental
 
-('You should see Item 3 Legal Proceedings beginning on page 33 for more '
- 'information about the litigation described above..')
-- litigation
-
-("At such times we have bought DRAMs in excess of our customers' needs in "
- 'order to ensure future allocations from DRAM manufacturers.')
-- customer_orientation
-
-('In the event of a shortage, we may not be able to obtain sufficient DRAMs to '
- "meet customers' needs in the short term, and we may have to invest "
- 'substantial working capital resources in order to meet long term customer '
- 'needs.')
-- customer_orientation, supply_chain_problems
-
-('At the present time, the market is one of oversupply, and we seek to '
- 'maintain a minimum inventory while meeting the needs of customers.')
-- customer_orientation
-
-('Certain of our memory products are designed to be used with proprietary '
- 'computer systems built by various OEM manufacturers.')
-- customer_orientation
-
-('We are presently licensed by Sun Microsystems and Silicon Graphics to sell '
- 'memory products for certain of their products.')
-- customer_orientation
-
-('During fiscal 2008, the largest ten customers accounted for approximately '
- "43% of the Company's revenues, with one customer accounting for "
- "approximately 14% of the Company's revenues.")
-- customer_orientation, taxes
-
-('There can be no assurance that one or more of these customers will not cease '
- 'or materially decrease their business with the Company in the future and '
- 'that our financial performance will not be adversely affected thereby.')
-- customer_orientation
-
-(" SALES DIRECTLY TO OEM'S CAN MAKE OUR REVENUES, EARNINGS, BACKLOG AND "
- 'INVENTORY LEVELS UNEVEN.')
-- taxes
-
-('Revenue and earnings from OEM sales may become uneven as order sizes are '
- 'typically large and often a completed order cannot be shipped until released '
- 'by the OEM, e.g., to meet a "just in time" inventory requirement.')
-- taxes
-
-('In such case, revenues and earnings could decline for the period and '
- 'inventory and backlog could increase.')
-- taxes
-
-'In the compatibles market we sell our products at a lower price than OEMs.'
-- customer_orientation
-
-('Customers will often pay some premium for the "name brand" product when '
- 'buying additional memory and OEMs seek to exploit this tendency by having a '
- 'high profit margin on memory products.')
-- customer_orientation
-
-('While we believe that with our manufacturing efficiency and low overhead we '
- 'still would be able to compete favorably with OEMs, in such an event profit '
- 'margins and earnings would be adversely affected.')
-- customer_orientation, supply_chain_problems
-
-' WE FACE COMPETITION FROM DRAM MANUFACTURERS.'
-- customer_orientation
-
-('DRAM manufacturers not only sell their product as discreet devices, but also '
- 'as finished memory modules.')
-- customer_orientation
-
-('There can be no assurance that DRAM manufacturers will not expand their '
- 'market and customer base, and our profit margins and earnings could be '
- 'adversely affected.')
-- customer_orientation
-
-'THE MARKET FOR OUR PRODUCTS MAY NARROW OVER TIME.'
-- customer_orientation
-
-('The principal market for our memory products consists of the manufacturers, '
- 'buyers and owners of workstations and enterprise servers, classes of '
- 'machines lying between large mainframe computers and personal computers.')
-- customer_orientation
+('It is our policy to, in unclear cases, either obtain an opinion of patent '
+ 'counsel prior to marketing, or obtain a license from the patent holder.')
+- governance
 
 ('The competition for the supply of after-market memory products in the PC '
  'industry is very competitive and to the extent we compete in this market we '
  'can be expected to have lower profit margins.')
-- customer_orientation
+- governance
 
-('In addition to selling server memory systems, we develop, manufacturer and '
- 'market a variety of memory products for motherboards that are Intel or AMD '
- 'processor based.')
-- customer_orientation, supply_chain_problems
-
-('Many of these products are sold to OEMs and incorporated into computers and '
- 'other equipment.')
-- customer_orientation
-
-'This is an intensely competitive market with high volumes but lower margins.'
-- customer_orientation
-
-("As a result, the Company's revenues and expenses may be adversely affected, "
- 'from time to time, by changes in the relationship of the dollar to various '
- 'foreign currencies on foreign exchange markets.')
-- customer_orientation
+('The Company is actively looking at acquiring complementary products and '
+ 'related intellectual property.')
+- governance
 
 ('This statute has the effect of prohibiting any "business combination" - a '
  'very broadly defined term - with any "interested shareholder" unless the '
  'transaction is approved by the Board of Directors at a time before the '
  'interested shareholder had acquired a 10% ownership interest.')
-- customer_orientation, shareholder_affiliation
+- governance
 
 ('This prohibition of "business combinations" is for five years after the '
  'shareholder became an "interested shareholder" and continues after that time '
  'period subject to certain exceptions.')
-- shareholder_affiliation
-
-('A practical consequence of this statute is that a hostile acquisition of our '
- 'company is unlikely to occur and hostile transactions which might be of '
- 'benefit to our shareholders are unlikely to occur..')
-- shareholder_affiliation
+- governance
