@@ -161,7 +161,8 @@ cython_debug/
 
 # Large data and model files
 models/
-data/
+data/*/raw
+data/*/processed
 
 # IDE settings
 .vscode/

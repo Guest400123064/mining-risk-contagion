@@ -1,0 +1,103 @@
+Introduction:
+  + Thank you very much in advance for annotating this dataset 
+      consisted of 845 sentences sampled from the SEC 10-K filings, 
+      specifically, the Item 1A Risk Factors section. The goal of 
+      this dataset is to help train a binary classifier to 
+      identify the actions taken by a mining company that are dealing
+      with risks. These risks can be environmental, social, economical, etc.
+      And the actions can be complying with environment regulations, 
+      engaging with labor union, or adjusting expansion strategies.
+      Below are the guidelines that help you annotate this dataset. 
+      Please read through ALL of the instructions before annotation.
+
+Annotation guideline:
+  + To begin with, we want to find sentences that describes the companies' 
+      actions. Note that the action don't necessarily need to relate to 
+      risks directly (e.g., the third example). We just want to find a general
+      forms or syntactic structures of the utterances stating what they did.
+      An overarching guideline is to cover as many TYPES of action statements 
+      as possible. The action sentences only composed of a very small subset
+      of the dataset: ~10%. But please note that precision is still highly important!
+
+  + We start with a few positive examples and explain why they are
+      considered action sentences.
+      - Sample: During 2012, we started negotiations with all the eight unions.
+      - Explaination: Clearly the sentence states that the company takes 
+          actions to deal with labor issues.
+
+      - Sample: During 2020 our objectives are to complete an agreement with 
+          the local community, to conduct surface exploration, and if warranted, 
+          conduct a drilling program.
+      - Explaination: Although this is an objective, this sentence declared a 
+          plan to be taken. So, it should be considered as action as well.
+
+      - Sample: In January 2010 we paid all dividends in arrears.
+      - Explaination: This does not seem to be directly related to a risk, but this 
+          is a sentence documenting their action: "paid all dividends."
+
+  + Then, here are some negative examples and explaination of why they are NOT
+      action sentences. Most negative samples are easy to identify. But the below 
+      samples look like positive samples but in reality negative ones.
+      - Sample: In such a case, we would be unable to complete our business plan 
+          and our future shareholders may lose their entire investment.
+      - Explaination: This sentence only states the risks they are facing rather 
+          than the actions they have taken or will be taking.
+
+      - Sample: We may also become subject to significant liability for pollution, 
+          cave-ins or hazards, which we cannot insure or which we may elect not to insure.
+      - Explaination: One type of negative case usually contains the term `may`, 
+          indicating the EXPECTED risks and consequences faced by the company.
+
+      - Sample: We believe our operations can provide valuable benefits to surrounding 
+          communities, in terms of direct employment, training and skills development and 
+          other benefits associated with ongoing payment of taxes.
+      - Explaination: Firstly, this express the BELIEVE of the company. But more importantly, 
+          the sentence does not mention any SPECIFIC action they are taking; they merely 
+          use the term `operations`, which is too general to be considered their actions.
+
+      - Sample: The EPA has finalized a rule to regulate GHG emissions from new power plants.
+      - Explaination: An action not taken by the company but other entities like government agencies. We admit 
+          that there will be some noise because these agencies are usually documented in abbreviation
+          forms. However, it may be possible to derive from the semantic of the sentences that the 
+          entities are regulatory institutions. For example, they enact certain rules.
+
+Hard positive:
+  + If the company is REQUIRED to do something, the sentence is 
+      still considered an action sentence. This usually happens
+      when the company states that they need to comply with 
+      certain regulations like environment protection laws.
+      - E.g., We have been required to dedicate more time and money 
+          to compliance and remediation activities.
+  
+  + Sometimes, for a very long sentence describing the risk a 
+      company faces, they may phrase it in the form, "Although 
+      we have [THEIR ACTIONS USED TO CONTROL THE RISK], we still ..."
+      In this case, the `Although` part, i.e., actions in the 
+      subordinate clause, is still considered mentioning the company's 
+      action towards the risk. Still, make sure the actions are 
+      taken by the companies, not other entities like government.
+      - E.g., Although we attempt to secure contractual rights that will 
+          permit us to protect our interests, there can be no assurance 
+          that such rights will always be available or sufficient, or that 
+          our efforts will be successful in achieving timely or favorable 
+          results or in affecting the operations of the properties in which we 
+          have royalty interests in ways that would be beneficial to 
+          our stockholders.
+
+  + Actions may be expressed through NEGATIVE sentences as well. These 
+      statements can express the altitude towards an event or the position
+      the company sets.
+      - E.g., Sumitomo MAY NOT WISH TO CONTINUE the San Cristobal 
+          Management Services Agreement.
+
+Notes:
+  + The dataset is stored in CSV format. `label` is the column to be annotated, and 
+      `text` is the sentence to consider. Other columns are mainly meta data which 
+      can be ignored.
+  + There should be 845 sentences in total.
+  + If you consider a sentence stating the actions, please enter a `1` in the label 
+      column; otherwise, give it a `0`.
+  + You can annotate with what ever tool you prefer. Excel could work but I personally 
+      consider an open source python-based annotation tool called `doccano` works better.
+      The link to the GitHub repo is here: < https://github.com/doccano/doccano >
+      

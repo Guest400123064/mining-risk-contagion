@@ -1,0 +1,142 @@
+rank,company_name,symbol,mkt_cap,country,flag_public_mining,downloaded_filings,ciq_company_id,has_transcript
+1,BHP Group,BHP,127056405000,Australia,1,20-F,256654.0,True
+2,Rio Tinto,RIO,90378756096,United Kingdom,1,20-F,299199.0,True
+3,China Shenhua Energy,601088.SS,83994218913,China,1,NO-SEC-FILING,21953673.0,False
+4,Glencore,GLCNF,73285279744,Switzerland,1,NO-SEC-FILING,704674.0,True
+5,Vale,VALE,59997003776,Brazil,1,20-F,133057.0,False
+6,Nutrien,NTR,49565028352,Canada,1,40-F,297545.0,True
+7,Maaden,1211.SR,48130032470,Saudi Arabia,1,NO-SEC-FILING,116323929.0,False
+8,Anglo American,AAL.L,42378879794,United Kingdom,1,NO-SEC-FILING,409115.0,True
+9,Nornickel,GMKN.ME,42334721992,Russia,1,NO-SEC-FILING,-1.0,False
+10,Freeport-McMoRan,FCX,40448339968,United States,1,10-K,273607.0,True
+11,Fortescue,FMG.AX,36087303501,Australia,1,NO-SEC-FILING,4484407.0,True
+12,Southern Copper,SCCO,35322572800,United States,1,10-K,350405.0,True
+13,Newmont,NEM,33072687104,United States,1,10-K,291795.0,True
+14,Zijin Mining,601899.SS,31581863475,China,1,NO-SEC-FILING,8342858.0,False
+15,Barrick Gold,GOLD,26352289792,Canada,1,"20-F, 40-F",249925.0,True
+16,Franco-Nevada,FNV,23311841280,Canada,1,40-F,3188564.0,False
+17,Agnico Eagle Mines,AEM,18963372032,Canada,1,"20-F, 40-F",248095.0,True
+18,Coal India,COALINDIA.NS,17726631929,India,1,NO-SEC-FILING,9192276.0,True
+19,Teck Resources,TECK,17367357440,Canada,1,40-F,189526.0,True
+20,Bayan Resources,BYAN.JK,14870746437,Indonesia,1,NO-SEC-FILING,223919066.0,False
+21,Wheaton Precious Metals,WPM,14069239808,Canada,1,40-F,3103638.0,True
+22,South32,S32.AX,12614650069,Australia,1,NO-SEC-FILING,29382177.0,False
+23,Antofagasta,ANTO.L,12504277610,United Kingdom,1,NO-SEC-FILING,877330.0,True
+24,Vedanta,VEDL.NS,12003364723,India,1,NO-SEC-FILING,878252.0,True
+25,Cameco,CCJ,11494453248,Canada,1,40-F,379153.0,True
+26,First Quantum Minerals,FM.TO,11264056176,Canada,1,NO-SEC-FILING,881155.0,True
+27,Shandong Gold Mining,600547.SS,10688647524,China,1,NO-SEC-FILING,9638068.0,False
+28,Newcrest Mining,NCM.AX,10364487697,Australia,1,NO-SEC-FILING,875895.0,True
+29,Impala Platinum,IMP.JO,8733978500,South Africa,1,NO-SEC-FILING,791281.0,True
+30,Boliden,BOL.ST,8432974387,Sweden,1,NO-SEC-FILING,5479455.0,True
+31,Gold Fields,GFI,7643182080,South Africa,1,20-F,408183.0,False
+32,Mineral Resources,MIN.AX,7577329957,Australia,1,NO-SEC-FILING,27871534.0,True
+33,Ivanhoe Mines,IVN.TO,7492215042,Canada,1,NO-SEC-FILING,41360040.0,True
+34,Sibanye-Stillwater,SBSW,6560526336,South Africa,1,20-F,-1.0,False
+35,Merdeka Copper Gold,MDKA.JK,6456406614,Indonesia,1,NO-SEC-FILING,1817427755.0,False
+36,Metso Outotec,MOCORP.HE,6337767328,Finland,1,NO-SEC-FILING,1181130.0,True
+37,Washington H. Soul Pattinson and Company,SOL.AX,6316632793,Australia,1,NO-SEC-FILING,875395.0,True
+38,Royal Gold,RGLD,5937110528,United States,1,10-K,301040.0,True
+39,AngloGold Ashanti,AU,5882402304,South Africa,1,20-F,392371.0,True
+40,Northern Star,NST.AX,5859392894,Australia,1,NO-SEC-FILING,5668890.0,False
+41,OZ Minerals,OZL.AX,5777915290,Australia,1,NO-SEC-FILING,6577407.0,True
+42,Yancoal,YAL.AX,5767645983,Australia,1,NO-SEC-FILING,874998.0,False
+43,Lynas,LYI.F,5165239920,Malaysia,1,NO-SEC-FILING,51912741.0,False
+44,Endeavour Mining,EDV.TO,5024563465,United Kingdom,1,NO-SEC-FILING,3235321.0,True
+45,National Mineral Development Corporation,NMDC.NS,4485045687,India,1,NO-SEC-FILING,-1.0,False
+46,Yamana Gold,AUY,4285314304,Canada,1,40-F,1051325.0,True
+47,Kinross Gold,KGC,4266886400,Canada,1,40-F,297179.0,True
+48,Lundin Mining,LUN.TO,3883743826,Canada,1,NO-SEC-FILING,880295.0,True
+49,CSN Mineração,CMIN3.SA,3853496326,Brazil,1,NO-SEC-FILING,133921923.0,True
+50,Lithium Americas,LAC,3688474112,Canada,1,40-F,43184628.0,False
+51,KGHM Polska Miedz,KGHA.F,3622063051,Poland,1,NO-SEC-FILING,882350.0,True
+52,Peabody Energy,BTU,3558647040,United States,1,10-K,32792.0,True
+53,B2Gold,BTG,3326013440,Canada,1,40-F,35511785.0,True
+54,African Rainbow Minerals,ARI.JO,3271650800,South Africa,1,NO-SEC-FILING,873721.0,True
+55,Alliance Resource Partners,ARLP,3262551808,United States,1,10-K,404105.0,True
+56,Pan American Silver,PAAS,3147200512,Canada,1,40-F,387933.0,True
+57,Exxaro Resources,EXX.JO,3059974800,South Africa,1,NO-SEC-FILING,140904794.0,False
+58,Iluka Resources,ILU.AX,2861966784,Australia,1,NO-SEC-FILING,875335.0,True
+59,Alamos Gold,AGI,2815580160,Canada,1,"20-F, 40-F",880493.0,True
+60,Alumina Limited,AWC.AX,2807758457,Australia,1,NO-SEC-FILING,191781.0,True
+61,Evolution Mining,EVN.AX,2699992837,Australia,1,NO-SEC-FILING,7713668.0,True
+62,Polymetal,PM6.F,2686898415,Cyprus,1,NO-SEC-FILING,12701813.0,True
+63,Arch Resources,ARCH,2631757312,United States,1,10-K,218812.0,True
+64,Alpha Metallurgical Resources,AMR,2592724992,United States,1,10-K,372704180.0,True
+65,CONSOL Energy,CEIX,2533138432,United States,1,10-K,6467097.0,False
+66,Liontown Resources,LTR.AX,2424535616,Australia,1,NO-SEC-FILING,30347332.0,False
+67,Sigma Lithium,SGML,2255053568,Canada,1,40-F,646553133.0,False
+68,Hecla Mining,HL,2112236032,United States,1,10-K,278111.0,True
+69,Triple Flag Precious Metals,TFPM.TO,1967286611,Canada,1,NO-SEC-FILING,432652682.0,True
+70,First Majestic Silver,AG,1919282048,Canada,1,40-F,3110160.0,True
+71,Warrior Met Coal,HCC,1646713600,United States,1,10-K,380779777.0,True
+72,Harmony Gold,HMY,1624744960,South Africa,1,20-F,410154.0,False
+73,Lundin Gold,LUG.TO,1589334780,Canada,1,NO-SEC-FILING,3040178.0,True
+74,Sandstorm Gold,SAND,1566239744,Canada,1,40-F,34761989.0,True
+75,KIOCL,KIOCL.NS,1522865274,India,1,NO-SEC-FILING,12467120.0,False
+76,Evraz,EVZ.F,1466822907,Russia,1,NO-SEC-FILING,9639796.0,False
+77,Buenaventura Mining Company,BVN,1442646144,Peru,1,20-F,-1.0,False
+78,Hindustan Copper,HINDCOPPER.NS,1399866484,India,1,NO-SEC-FILING,12704353.0,False
+79,Uranium Energy,UEC,1386096896,United States,1,10-K,23428489.0,False
+80,NLC India,NLCINDIA.NS,1351669364,India,1,NO-SEC-FILING,8081460.0,True
+81,Compass Minerals,CMP,1337061504,United States,1,10-K,1848912.0,False
+82,Koza Gold,KOZAL.IS,1318667754,Turkey,1,NO-SEC-FILING,382048592.0,False
+83,Compañía de Acero del Pacífico,CAP.SN,1259197200,Chile,1,NO-SEC-FILING,-1.0,False
+84,Mechel PAO,MTL,1206171008,Russia,1,20-F,11311593.0,True
+85,MAG Silver,MAG,1145771776,Canada,1,"20-F, 40-F",8846760.0,False
+86,Energy Fuels,UUUU,1140864640,United States,1,10-K,880431.0,True
+87,Denison Mines,DNN,1088438784,Canada,1,"20-F, 40-F",881400.0,True
+88,Jastrzebska Spólka Weglowa,JSW.WA,1069456673,Poland,1,NO-SEC-FILING,5496202.0,True
+89,U.S. Silica,SLCA,1036622848,United States,1,10-K,35912.0,False
+90,Piedmont Lithium,PLL,1025975424,Australia,1,"10-K, 20-F",411830071.0,False
+91,Orla Mining,ORLA,1021322304,Canada,1,40-F,35555920.0,True
+92,BEML,BEML.NS,989395681,India,1,NO-SEC-FILING,881673.0,False
+93,Centerra Gold,CGAU,986740288,Canada,1,40-F,9870273.0,True
+94,Seabridge Gold,SA,966536320,Canada,1,"20-F, 40-F",3064962.0,False
+95,Ivanhoe Electric,IE,938167872,Canada,1,NO-SEC-FILING,414552023.0,False
+96,ioneer,IONR,897167680,Australia,1,NO-SEC-FILING,38704945.0,False
+97,Standard Lithium,SLI,863436480,Canada,1,40-F,3175246.0,False
+98,SilverCrest Metals,SILV,783197888,Canada,1,40-F,311536574.0,False
+99,Coeur Mining,CDE,761149632,United States,1,10-K,262033.0,True
+100,Nexa Resources,NEXA,735036480,Luxembourg,1,20-F,284839929.0,True
+101,Fortuna Silver Mines,FSM,662620480,Canada,1,40-F,3474768.0,True
+102,Gujarat Mineral Development,GMDCLTD.NS,658377421,India,1,NO-SEC-FILING,4509039.0,True
+103,New Found Gold,NFGC,618120896,Canada,1,40-F,547134851.0,False
+104,Endeavour Silver,EXK,534753760,Canada,1,40-F,3018255.0,True
+105,Maverix Metals,MMX,509322400,Canada,1,40-F,331380015.0,False
+106,DRDGOLD,DRD,470170848,South Africa,1,20-F,21841668.0,False
+107,Patriot Battery Metals,PMET.V,457382197,Canada,1,NO-SEC-FILING,79093186.0,False
+108,American Battery Technology Company,ABML,440686816,United States,1,10-K,240726304.0,False
+109,MOIL,MOIL.NS,433198240,India,1,NO-SEC-FILING,23465324.0,False
+110,New Pacific Metals,NEWP,404458048,Canada,1,40-F,3188873.0,False
+111,Arizona Metals,AMC.V,386952890,Canada,1,NO-SEC-FILING,214036558.0,False
+112,Nouveau Monde Graphite,NMG,338948384,Canada,1,40-F,212567138.0,False
+113,PolyMet,PLM,329780736,Canada,1,"20-F, 40-F",27827436.0,False
+114,NACCO Industries,NC,313202368,United States,1,10-K,290291.0,True
+115,Taseko Mines,TGB,290445568,Canada,1,"20-F, 40-F",876653.0,True
+116,Argonaut Gold,AR.TO,268771522,United States,1,NO-SEC-FILING,79692237.0,True
+117,Marathon Gold,MOZ.TO,267358007,Canada,1,NO-SEC-FILING,25848487.0,False
+118,Hallador Energy Company,HNRG,217685152,United States,1,10-K,29256.0,True
+119,Gatos Silver,GATO,194267936,United States,1,10-K,1823237047.0,False
+120,Western Copper and Gold,WRN,193885824,Canada,1,"20-F, 40-F",27236007.0,False
+121,Northern Dynasty Minerals,NAK,155828448,Canada,1,"20-F, 40-F",875165.0,False
+122,McEwen Mining,MUX,146550352,Canada,1,10-K,310819.0,True
+123,Hycroft Mining,HYMC,143793360,United States,1,10-K,30027533.0,True
+124,Platinum Group Metals,PLG,137205168,Canada,1,"20-F, 40-F",1665325.0,False
+125,Tanzanian Gold Corp,TRX,132935944,Canada,1,20-F,1760866438.0,False
+126,Prakash Industries,PRAKASH.NS,132878809,India,1,NO-SEC-FILING,20358462.0,False
+127,Americas Gold and Silver Corp,USAS,79588568,Canada,1,40-F,3178669.0,True
+128,Sierra Metals,SMTS,74843552,Canada,1,40-F,3109296.0,True
+129,Vista Gold,VGZ,66150560,United States,1,10-K,276109.0,True
+130,Avino Silver & Gold Mines,ASM,60924692,Canada,1,20-F,875979.0,True
+131,Petropavlovsk,POG.L,54701538,United Kingdom,1,NO-SEC-FILING,6227447.0,True
+132,Silver One Resources,SVE.V,48027963,Canada,1,NO-SEC-FILING,40126007.0,False
+133,Golden Minerals,AUMN,43514536,United States,1,10-K,370488.0,True
+134,Comstock Mining,LODE,41730924,United States,1,10-K,214924257.0,False
+135,Brazil Minerals,BMIX,39534748,Brazil,1,10-K,1760659902.0,False
+136,Great Panther Mining,GPL,38185764,Canada,1,"20-F, 40-F",876507.0,True
+137,Solitario Zinc,XPL,36309444,United States,1,10-K,3181744.0,False
+138,Orosur Mining,OMI.V,33037144,Canada,1,NO-SEC-FILING,3188602.0,True
+139,U.S. Gold Corp,USAU,30142922,United States,1,10-K,364606463.0,False
+140,Austin Gold,AUST,20704008,United States,1,NO-SEC-FILING,670777793.0,False
+141,Trillium Gold Mines,TGM.V,8653588,Canada,1,NO-SEC-FILING,41833104.0,False
